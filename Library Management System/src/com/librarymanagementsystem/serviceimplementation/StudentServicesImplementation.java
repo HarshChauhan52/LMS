@@ -15,14 +15,16 @@ public class StudentServicesImplementation implements StudentService
 	private static final Logger LOGGER= Logger.getLogger(StudentServicesImplementation.class.getName());
 	private Student student;
 	private String nameOfBook;
+	private Library library;
 
 	public StudentServicesImplementation()
 	{
 	}
 	
-	public StudentServicesImplementation(Student student)
+	public StudentServicesImplementation(Student student,Library library)
 	{
 		this.student=student;
+		this.library=library;
 	}
 	
 	public Student getStudent() 
@@ -33,7 +35,7 @@ public class StudentServicesImplementation implements StudentService
 	Scanner sc=new Scanner(System.in);
 	
 	@Override
-	public boolean searchBookByName(Library library, String bookName) 
+	public boolean searchBookByName(String bookName) 
 	{
 		if(library==null)
 		{
@@ -70,7 +72,7 @@ public class StudentServicesImplementation implements StudentService
 	}
 
 	@Override
-	public boolean searchBookByAuthorName(Library library, String authorName) 
+	public boolean searchBookByAuthorName(String authorName) 
 	{
 		if(library==null)
 		{
@@ -105,30 +107,21 @@ public class StudentServicesImplementation implements StudentService
 	}
 
 	@Override
-	public boolean loanABook(Library library,Student student)
+	public boolean loanABook(Student student,String bookName)
 	{
-		if(library==null)
+		if(student==null)
 		{
-            return false;			
+			return false;
 		}
-		else if(student==null)
+		else if(bookName==null || bookName.isEmpty())
 		{
 			return false;
 		}
 		
+		
 		StudentDao studentdao=new StudentDaoimplementation();
 		
-        System.out.println("Books available");
-		
-		for(Book book:library.seeBooks())
-		{
-			System.out.println(" Book name : "+book.getBookName()+" Author name : "+book.getAuthorName()+" Subject : "+book.getSubject()+" Page no : "+book.getPageNo());
-		}
-		
-		System.out.println("Enter book name :");
-		String bookName=sc.next();
-		
-		LOGGER.info("In StudentServicesImplementation class and in function loanABook.");
+        LOGGER.info("In StudentServicesImplementation class and in function loanABook.");
 		
 		int flag=studentdao.loaningABook(library,student,bookName);
 		
@@ -154,20 +147,24 @@ public class StudentServicesImplementation implements StudentService
 	}
 	
 	@Override
-	public void returnBook(Student student,Library library) 
+	public boolean returnBook(Student student,String bookName) 
 	{
+		if (student==null)
+		{
+			return false;
+		}
+		else if (bookName==null)
+		{
+			return false;
+		}
+		else if (bookName=="")
+		{
+			return false;
+		}
+		
 		StudentDao studentdao=new StudentDaoimplementation();
 		
 		LOGGER.info("In StudentServicesImplementation class and in function returnBook.");
-		System.out.println("Books you have");
-			
-		for(Book book:student.seeStudentBooksList())
-		{
-			System.out.println(" Book name : "+book.getBookName()+" , Author name : "+book.getAuthorName()+" , Subject : "+book.getSubject()+" , Page no : "+book.getPageNo());
-		}
-			
-		System.out.println("Enter book name you want to return:");
-		String bookName=sc.next();
 		 
 		int flag=studentdao.returningBook(student,bookName,library);
 		 
@@ -175,16 +172,18 @@ public class StudentServicesImplementation implements StudentService
 		{ 
 			LOGGER.info("In StudentServicesImplementation class and in function returnBook and book returned successfully.");
 			System.out.println("book returned successfully");
+			return true;
 		}
 		else
         {
 			LOGGER.info("In StudentServicesImplementation class and in function returnBook and book not returned successfully.");
 			System.out.println("Book not returned successfully");
+			return false;
 		}
 	}
 	
 	@Override
-	public void listOfBooks (Library library) 
+	public boolean listOfBooks () 
 	{
 		int check=0;
 		LOGGER.info("In StudentServicesImplementation class and in function listOfBooks.");
@@ -198,10 +197,39 @@ public class StudentServicesImplementation implements StudentService
 		if(check==1)
 		{
 			System.out.println("Above is list of books available");
+			return true;
 		}
 		else
 		{
 			System.out.println("No Book is available yet");
+			return false;
 		}
 	}
+	
+	
+	@Override
+	public boolean listOfStudentsBooks () 
+	{
+		int check=0;
+		LOGGER.info("In StudentServicesImplementation class and in function listOfStudentsBooks.");
+				
+		for(Book book:student.seeStudentBooksList())
+		{
+			check=1;
+			System.out.println(" Book name : "+book.getBookName()+" , Author name : "+book.getAuthorName()+" , Subject : "+book.getSubject()+" , Page no : "+book.getPageNo());
+		}
+		
+		
+		if(check==1)
+		{
+			System.out.println("Books you have");
+			return true;
+		}
+		else
+		{
+			System.out.println("You don't have any book yet");
+			return false;
+		}
+	}
+	
 }

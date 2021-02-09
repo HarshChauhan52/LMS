@@ -5,8 +5,8 @@ import com.librarymanagementsystem.beans.Library;
 
 public interface LibrarianService 
 {
-	public boolean addBooks(Library library,Book book);
-	public boolean listOfBooks(Library library);
-	public boolean loanedBooks(Library library);
-	public boolean studentsList(Library library);
+	public boolean addBooks(Book book);
+	public boolean listOfBooks();
+	public boolean loanedBooks();
+	public boolean studentsList();
 }

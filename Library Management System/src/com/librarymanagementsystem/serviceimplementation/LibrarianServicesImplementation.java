@@ -17,14 +17,15 @@ public class LibrarianServicesImplementation implements LibrarianService
 {
 	private static final Logger LOGGER= Logger.getLogger(LibrarianServicesImplementation.class.getName());
 	private Librarian librarian;
-    //private Library library; 
+    private Library library; 
  	public LibrarianServicesImplementation() 
 	{
 	}
     
-	public LibrarianServicesImplementation(Librarian librarian) 
+	public LibrarianServicesImplementation(Librarian librarian,Library library) 
 	{
 		this.librarian=librarian;
+		this.library=library;
 	}
 
 
@@ -36,7 +37,7 @@ public class LibrarianServicesImplementation implements LibrarianService
  	
  	// function to add books
  	@Override
-	public boolean addBooks(Library library,Book book)
+	public boolean addBooks(Book book)
 	{
  		if(library == null)
  		{
@@ -55,13 +56,8 @@ public class LibrarianServicesImplementation implements LibrarianService
     
 	// function to see list of books
  	@Override
- 	public boolean listOfBooks(Library library)
+ 	public boolean listOfBooks()
 	{    
- 		if(library==null)
-		{
-		    return false;
-		}
- 		
  		LiberarianDao liberariandao=new LiberarianDaoImplementation();
 		
  		int i=1,check=0;
@@ -89,13 +85,8 @@ public class LibrarianServicesImplementation implements LibrarianService
 	
 	// function to see list of loaned books
  	@Override
-	public boolean loanedBooks(Library library)
+	public boolean loanedBooks()
 	{
- 		if(library==null)
-		{
-		    return false;
-		}
- 		
  		LiberarianDao liberariandao=new LiberarianDaoImplementation();
 		int i=1,check=0;
 		LOGGER.info("In LibrarianServicesImplementation class and printing list of books loaned.");
@@ -122,7 +113,7 @@ public class LibrarianServicesImplementation implements LibrarianService
  	
 	// seeing students added to our library
  	@Override
- 	public boolean studentsList(Library library)
+ 	public boolean studentsList()
  	{
  		if(library==null)
 		{

@@ -895,3 +895,1443 @@ In StudentServiceImplementation junit test checking LoanABook function in case s
 In StudentServiceImplementation junit test checking LoanABook function in case student is not null
 In StudentServicesImplementation class and in function loanABook.
 In StudentServicesImplementation class and in function loanABook and book loaned successfully.
+In StudentServiceImplementation junit test checking LoanABook function in case student is not null
+In StudentServicesImplementation class and in function loanABook.
+In StudentServicesImplementation class and in function loanABook and book loaned successfully.
+In StudentServiceImplementation junit test checking LoanABook function in case student is not null
+In StudentServicesImplementation class and in function loanABook.
+In StudentServicesImplementation class and in function loanABook and book loaned successfully.
+In StudentServiceImplementation junit test checking LoanABook function in case student is not null
+In StudentServiceImplementation junit test checking LoanABook function in case student is not null
+In StudentServicesImplementation class and in function loanABook.
+In StudentServicesImplementation class and in function loanABook and book loaned successfully.
+In StudentServiceImplementation junit test checking LoanABook function in case student is not null
+In StudentServiceImplementation junit test checking LoanABook function in case student is not null
+In StudentServiceImplementation junit test checking LoanABook function in case student is not null
+In StudentServicesImplementation class and in function loanABook.
+In StudentServicesImplementation class and in function loanABook and book loaned successfully.
+In StudentServiceImplementation junit test checking LoanABook function in case book is empty
+In StudentServiceImplementation junit test checking LoanABook function in case book is null
+In StudentServiceImplementation junit test checking LoanABook function in case values are as per expectation
+In StudentServicesImplementation class and in function loanABook.
+In StudentServicesImplementation class and in function loanABook and book loaned successfully.
+In StudentServiceImplementation junit test checking LoanABook function in case student is not null
+In StudentServicesImplementation class and in function loanABook.
+In StudentServicesImplementation class and in function loanABook and book not loaned successfully.
+In StudentServiceImplementation junit test checking SearchBookByAuthorName function in case book and library are not null
+In StudentServicesImplementation class and in function searchBookByName.
+In StudentServiceImplementation junit test checking LoanABook function in case book is empty
+In StudentServiceImplementation junit test checking LoanABook function in case book is null
+In StudentServiceImplementation junit test checking LoanABook function in case values are as per expectation
+In StudentServicesImplementation class and in function loanABook.
+In StudentServicesImplementation class and in function loanABook and book loaned successfully.
+In StudentServiceImplementation junit test checking searchBookByName function in case book and library are not null
+In StudentServicesImplementation class and in function searchBookByName.
+In StudentServiceImplementation junit test checking LoanABook function in case student is null
+In StudentServiceImplementation junit test checking LoanABook function in case student is not null
+In StudentServicesImplementation class and in function loanABook.
+In StudentServicesImplementation class and in function loanABook and book not loaned successfully.
+In StudentServiceImplementation junit test checking SearchBookByAuthorName function in case book is null
+In StudentServiceImplementation junit test checking searchBookByName function in case book is null
+Library created
+Services called
+Login class called
+When login of user fails
+Asking user wheather he/she wants to continue or not
+Login successfull for Librarian module.
+In librarian module.
+Showing librarian module's menu.
+In librarian module functionality 1).Add books.
+In librarian module functionality asking user wheather to continue or not
+In librarian module.
+Showing librarian module's menu.
+In librarian module functionality 2).List of books.
+In LibrarianServicesImplementation class and printing list of books.
+In librarian module functionality asking user wheather to continue or not
+In librarian module.
+Showing librarian module's menu.
+In librarian module functionality 3).List of books loaned.
+In LibrarianServicesImplementation class and printing list of books loaned.
+In librarian module functionality asking user wheather to continue or not
+Asking user wheather he/she wants to continue or not
+Login successfull for Librarian module.
+In librarian module.
+Showing librarian module's menu.
+In librarian module functionality 4).List of students
+In LibrarianServicesImplementation class and printing list of students registered with the library.
+In librarian module functionality asking user wheather to continue or not
+Library created
+Services called
+Login class called
+Login successfull for Librarian module.
+In librarian module.
+Showing librarian module's menu.
+In librarian module functionality 1).Add books.
+In librarian module functionality asking user wheather to continue or not
+In librarian module.
+Showing librarian module's menu.
+In librarian module functionality 2).List of books.
+In LibrarianServicesImplementation class and printing list of books.
+In librarian module functionality asking user wheather to continue or not
+Asking user wheather he/she wants to continue or not
+Login successfull for Librarian module.
+In librarian module.
+Showing librarian module's menu.
+Library created
+Services called
+Login class called
+Login successfull for Librarian module.
+In librarian module.
+Showing librarian module's menu.
+In librarian module functionality 1).Add books.
+In librarian module functionality asking user wheather to continue or not
+In librarian module.
+Showing librarian module's menu.
+In librarian module functionality 3).List of books loaned.
+In LibrarianServicesImplementation class and printing list of books loaned.
+In librarian module functionality asking user wheather to continue or not
+In librarian module.
+Showing librarian module's menu.
+In librarian module functionality 4).List of students
+In LibrarianServicesImplementation class and printing list of students registered with the library.
+In librarian module functionality asking user wheather to continue or not
+In librarian module.
+Showing librarian module's menu.
+Logging out
+In librarian module functionality asking user wheather to continue or not
+Asking user wheather he/she wants to continue or not
+Login successfull for Student module.
+In student module
+Showing student module's menu.
+In student module functionality 3).Loan a book.
+In StudentServicesImplementation class and in function listOfBooks.
+In StudentServicesImplementation class and in function loanABook.
+In StudentServicesImplementation class and in function loanABook and book loaned successfully.
+In student module functionality 3).Loan a book.
+In StudentServicesImplementation class and in function listOfBooks.
+In StudentServicesImplementation class and in function loanABook.
+In StudentServicesImplementation class and in function loanABook and book not loaned successfully.
+In student module functionality 3).Loan a book.
+In StudentServicesImplementation class and in function listOfBooks.
+In StudentServicesImplementation class and in function loanABook.
+In StudentServicesImplementation class and in function loanABook and book not loaned successfully.
+In Student module functionality asking user wheather to continue or not
+In student module
+Showing student module's menu.
+In student module functionality 4).Return a book.
+In StudentServicesImplementation class and in function returnBook.
+In StudentServicesImplementation class and in function returnBook and book returned successfully.
+In StudentServiceImplementation junit test checking SearchBookByAuthorName function in case book and library are not null
+In StudentServiceImplementation junit test checking searchBookByName function in case book and library are not null
+In StudentServiceImplementation junit test checking SearchBookByAuthorName function in case book is null
+In StudentServiceImplementation junit test checking searchBookByName function in case book is null
+In StudentServiceImplementation junit test checking SearchBookByAuthorName function in case book and library are not null
+In StudentServiceImplementation junit test checking LoanABook function in case book is empty
+In StudentServiceImplementation junit test checking LoanABook function in case book is null
+In StudentServiceImplementation junit test checking LoanABook function in case values are as per expectation
+In StudentServiceImplementation junit test checking searchBookByName function in case book and library are not null
+In StudentServiceImplementation junit test checking LoanABook function in case student is null
+In StudentServiceImplementation junit test checking LoanABook function in case student is not null
+In StudentServiceImplementation junit test checking SearchBookByAuthorName function in case book is null
+In StudentServiceImplementation junit test checking searchBookByName function in case book is null
+Library created using LibraryDaoImplementation
+Library created
+Librarian created and added to library using LibraryDaoImplementation
+Student created and added to library using LibraryDaoImplementation
+Services called
+Login class called
+Login successfull for Librarian module.
+In librarian module.
+Showing librarian module's menu.
+Logging out
+In librarian module functionality asking user wheather to continue or not
+Asking user wheather he/she wants to continue or not
+Login successfull for Student module.
+In student module
+Showing student module's menu.
+Logging out
+In Student module functionality asking user wheather to continue or not
+Asking user wheather he/she wants to continue or not
+Login successfull for Student module.
+In student module
+Showing student module's menu.
+In StudentServiceImplementation junit test checking SearchBookByAuthorName function in case book and library are not null
+In StudentServiceImplementation junit test checking LoanABook function in case book is empty
+In StudentServiceImplementation junit test checking LoanABook function in case book is null
+In StudentServiceImplementation junit test checking LoanABook function in case values are as per expectation
+In StudentServiceImplementation junit test checking searchBookByName function in case book and library are not null
+In StudentServiceImplementation junit test checking LoanABook function in case student is null
+In StudentServiceImplementation junit test checking LoanABook function in case student is not null
+In StudentServiceImplementation junit test checking SearchBookByAuthorName function in case book is null
+In StudentServiceImplementation junit test checking searchBookByName function in case book is null
+In StudentServiceImplementation junit test checking LoanABook function in case book is empty
+In StudentServiceImplementation junit test checking LoanABook function in case book is null
+In StudentServiceImplementation junit test checking LoanABook function in case values are as per expectation
+In StudentServiceImplementation junit test checking LoanABook function in case student is null
+In StudentServiceImplementation junit test checking LoanABook function in case student is not null
+In StudentServiceImplementation junit test checking LoanABook function in case book is empty
+In StudentServiceImplementation junit test checking LoanABook function in case book is null
+In StudentServiceImplementation junit test checking LoanABook function in case student is null
+In StudentServiceImplementation junit test checking LoanABook function in case student is not null
+In StudentServiceImplementation junit test checking LoanABook function in case book is empty
+In StudentServiceImplementation junit test checking LoanABook function in case book is null
+In StudentServiceImplementation junit test checking LoanABook function in case values are as per expectation
+In StudentServiceImplementation junit test checking LoanABook function in case student is null
+In StudentServiceImplementation junit test checking LoanABook function in case student is not null
+In StudentServiceImplementation junit test checking LoanABook function in case book is empty
+In StudentServiceImplementation junit test checking LoanABook function in case book is null
+In StudentServiceImplementation junit test checking LoanABook function in case student is null
+In StudentServiceImplementation junit test checking LoanABook function in case student is not null
+In StudentServiceImplementation junit test checking LoanABook function in case book is empty
+In StudentServiceImplementation junit test checking LoanABook function in case book is null
+In StudentServiceImplementation junit test checking LoanABook function in case student is null
+In StudentServiceImplementation junit test checking LoanABook function in case student is not null
+In StudentServiceImplementation junit test checking LoanABook function in case book is empty
+In StudentServiceImplementation junit test checking LoanABook function in case book is null
+In StudentServiceImplementation junit test checking LoanABook function in case values are as per expectation
+In StudentServiceImplementation junit test checking LoanABook function in case student is null
+In StudentServiceImplementation junit test checking LoanABook function in case student is not null
+In StudentServiceImplementation junit test checking LoanABook function in case book is empty
+In StudentServiceImplementation junit test checking LoanABook function in case book is null
+In StudentServiceImplementation junit test checking LoanABook function in case values are as per expectation
+In StudentServiceImplementation junit test checking LoanABook function in case student is null
+In StudentServiceImplementation junit test checking LoanABook function in case student is not null
+In StudentServiceImplementation junit test checking LoanABook function in case book is empty
+In StudentServiceImplementation junit test checking LoanABook function in case book is null
+In StudentServiceImplementation junit test checking LoanABook function in case values are as per expectation
+In StudentServiceImplementation junit test checking LoanABook function in case student is null
+In StudentServiceImplementation junit test checking LoanABook function in case student is not null
+In StudentServiceImplementation junit test checking LoanABook function in case book is empty
+In StudentServiceImplementation junit test checking LoanABook function in case book is null
+In StudentServiceImplementation junit test checking LoanABook function in case values are as per expectation
+In StudentServicesImplementation class and in function loanABook.
+In StudentServicesImplementation class and in function loanABook and book loaned successfully.
+In StudentServiceImplementation junit test checking LoanABook function in case student is null
+In StudentServiceImplementation junit test checking LoanABook function in case student is not null
+In StudentServiceImplementation junit test checking SearchBookByAuthorName function in case book and library are not null
+In StudentServiceImplementation junit test checking LoanABook function in case book is empty
+In StudentServiceImplementation junit test checking LoanABook function in case book is null
+In StudentServiceImplementation junit test checking LoanABook function in case values are as per expectation
+In StudentServicesImplementation class and in function loanABook.
+In StudentServicesImplementation class and in function loanABook and book loaned successfully.
+In StudentServiceImplementation junit test checking searchBookByName function in case book and library are not null
+In StudentServiceImplementation junit test checking LoanABook function in case student is null
+In StudentServiceImplementation junit test checking LoanABook function in case student is not null
+In StudentServiceImplementation junit test checking SearchBookByAuthorName function in case book is null
+In StudentServiceImplementation junit test checking searchBookByName function in case book is null
+In StudentServiceImplementation junit test checking SearchBookByAuthorName function in case book and library are not null
+In StudentServiceImplementation junit test checking LoanABook function in case book is empty
+In StudentServiceImplementation junit test checking LoanABook function in case book is null
+In StudentServiceImplementation junit test checking LoanABook function in case values are as per expectation
+In StudentServicesImplementation class and in function loanABook.
+In StudentServicesImplementation class and in function loanABook and book loaned successfully.
+In StudentServiceImplementation junit test checking searchBookByName function in case book and library are not null
+In StudentServiceImplementation junit test checking LoanABook function in case student is null
+In StudentServiceImplementation junit test checking LoanABook function in case student is not null
+In StudentServiceImplementation junit test checking SearchBookByAuthorName function in case book is null
+In StudentServiceImplementation junit test checking searchBookByName function in case book is null
+In LibrarianServicesImplementation junit test checking listOfBooks function in case book is null
+In LibrarianServicesImplementation class and printing list of books.
+In LibrarianServicesImplementation junit test checking addBooks function in case book is null
+In LibrarianServicesImplementation junit test checking listOfBooks function in case library is null
+In LibrarianServicesImplementation class and printing list of books.
+In LibrarianServicesImplementation junit test checking addBooks function in case library is null
+In LibrarianServicesImplementation junit test checking addBooks function in case book and library are not null
+In LibrarianServicesImplementation junit test checking studentsList function in case library is null
+In LibrarianServicesImplementation class and printing list of students registered with the library.
+In LibrarianServicesImplementation junit test checking studentsList function in case library is not null
+In LibrarianServicesImplementation class and printing list of students registered with the library.
+In LibrarianServicesImplementation junit test checking loanedBooks function in case library is not null
+In LibrarianServicesImplementation class and printing list of books loaned.
+In LibrarianServicesImplementation junit test checking addBooks function in case book and library are null
+In LibrarianServicesImplementation junit test checking listOfBooks function in case book and library both are not null
+In LibrarianServicesImplementation class and printing list of books.
+In LibrarianServicesImplementation junit test checking loanedBooks function in case library is null
+In LibrarianServicesImplementation class and printing list of books loaned.
+In LibrarianServicesImplementation class and printing list of books loaned.
+In LibrarianServicesImplementation junit test checking listOfBooks function in case library is null
+In LibrarianServicesImplementation class and printing list of books.
+In LibrarianServicesImplementation junit test checking addBooks function in case library is null
+In LibrarianServicesImplementation junit test checking studentsList function in case library is not null
+In LibrarianServicesImplementation class and printing list of students registered with the library.
+In LibrarianServicesImplementation junit test checking loanedBooks function in case library is not null
+In LibrarianServicesImplementation class and printing list of books loaned.
+In LibrarianServicesImplementation junit test checking loanedBooks function in case library is not null
+In LibrarianServicesImplementation class and printing list of books loaned.
+In LibrarianServicesImplementation junit test checking studentsList function in case library is not null
+In LibrarianServicesImplementation class and printing list of students registered with the library.
+In LibrarianServicesImplementation junit test checking loanedBooks function in case library is not null
+In LibrarianServicesImplementation class and printing list of books loaned.
+In LibrarianServicesImplementation junit test checking studentsList function in case library is not null
+In LibrarianServicesImplementation class and printing list of students registered with the library.
+In LibrarianServicesImplementation junit test checking loanedBooks function in case library is not null
+In LibrarianServicesImplementation class and printing list of books loaned.
+In LibrarianServicesImplementation junit test checking studentsList function in case library is not null
+In LibrarianServicesImplementation class and printing list of students registered with the library.
+In LibrarianServicesImplementation junit test checking loanedBooks function in case library is not null
+In LibrarianServicesImplementation class and printing list of books loaned.
+In LibrarianServicesImplementation junit test checking studentsList function in case library is not null
+In LibrarianServicesImplementation class and printing list of students registered with the library.
+In LibrarianServicesImplementation junit test checking loanedBooks function in case library is not null
+In LibrarianServicesImplementation class and printing list of books loaned.
+In LibrarianServicesImplementation junit test checking studentsList function in case library is not null
+In LibrarianServicesImplementation class and printing list of students registered with the library.
+In LibrarianServicesImplementation junit test checking loanedBooks function in case library is not null
+In LibrarianServicesImplementation class and printing list of books loaned.
+In LibrarianServicesImplementation junit test checking studentsList function in case library is not null
+In LibrarianServicesImplementation class and printing list of students registered with the library.
+In LibrarianServicesImplementation junit test checking loanedBooks function in case library is not null
+In LibrarianServicesImplementation class and printing list of books loaned.
+In LibrarianServicesImplementation junit test checking studentsList function in case library is not null
+In LibrarianServicesImplementation class and printing list of students registered with the library.
+In LibrarianServicesImplementation junit test checking studentsList function in case library is not null
+In LibrarianServicesImplementation class and printing list of students registered with the library.
+In LibrarianServicesImplementation junit test checking studentsList function in case library is not null
+In LibrarianServicesImplementation class and printing list of students registered with the library.
+In LibrarianServicesImplementation junit test checking loanedBooks function in case library is not null
+In LibrarianServicesImplementation class and printing list of books loaned.
+In LibrarianServicesImplementation junit test checking loanedBooks function in case library is not null
+In LibrarianServicesImplementation class and printing list of books loaned.
+In LibrarianServicesImplementation junit test checking listOfBooks function in case book is null
+In LibrarianServicesImplementation class and printing list of books.
+In LibrarianServicesImplementation junit test checking addBooks function in case book is null
+In LibrarianServicesImplementation junit test checking addBooks function in case book and library are not null
+In LibrarianServicesImplementation junit test checking studentsList function in case library is null
+In LibrarianServicesImplementation class and printing list of students registered with the library.
+In LibrarianServicesImplementation junit test checking studentsList function in case library is not null
+In LibrarianServicesImplementation class and printing list of students registered with the library.
+In LibrarianServicesImplementation junit test checking loanedBooks function in case library is not null
+In LibrarianServicesImplementation class and printing list of books loaned.
+In LibrarianServicesImplementation junit test checking addBooks function in case book and library are null
+In LibrarianServicesImplementation junit test checking loanedBooks function in case library is null
+In LibrarianServicesImplementation class and printing list of books loaned.
+In LibrarianServicesImplementation class and printing list of books loaned.
+In StudentServiceImplementation junit test checking SearchBookByAuthorName function in case book and library are not null
+In StudentServiceImplementation junit test checking LoanABook function in case book is empty
+In StudentServiceImplementation junit test checking LoanABook function in case book is null
+In StudentServiceImplementation junit test checking LoanABook function in case values are as per expectation
+In StudentServicesImplementation class and in function loanABook.
+In StudentServicesImplementation class and in function loanABook and book loaned successfully.
+In StudentServiceImplementation junit test checking searchBookByName function in case book and library are not null
+In StudentServiceImplementation junit test checking LoanABook function in case student is null
+In StudentServiceImplementation junit test checking LoanABook function in case student is not null
+In StudentServiceImplementation junit test checking SearchBookByAuthorName function in case book is null
+In StudentServiceImplementation junit test checking searchBookByName function in case book is null
+In StudentServiceImplementation junit test checking SearchBookByAuthorName function in case book and library are not null
+In StudentServiceImplementation junit test checking LoanABook function in case book is null
+In StudentServiceImplementation junit test checking searchBookByName function in case book and library are not null
+In StudentServiceImplementation junit test checking SearchBookByAuthorName function in case book and library are not null
+In StudentServiceImplementation junit test checking searchBookByName function in case book and library are not null
+In StudentServiceImplementation junit test checking SearchBookByAuthorName function in case book and library are not null
+In StudentServiceImplementation junit test checking searchBookByName function in case book and library are not null
+In StudentServiceImplementation junit test checking SearchBookByAuthorName function in case book and library are not null
+In StudentServicesImplementation class and in function searchBookByName.
+In StudentServiceImplementation junit test checking searchBookByName function in case book and library are not null
+In StudentServiceImplementation junit test checking SearchBookByAuthorName function in case book and library are not null
+In StudentServicesImplementation class and in function searchBookByName.
+In StudentServiceImplementation junit test checking searchBookByName function in case book and library are not null
+In StudentServiceImplementation junit test checking SearchBookByAuthorName function in case book and library are not null
+In StudentServicesImplementation class and in function searchBookByName.
+In StudentServiceImplementation junit test checking searchBookByName function in case book and library are not null
+In StudentServiceImplementation junit test checking SearchBookByAuthorName function in case book and library are not null
+In StudentServicesImplementation class and in function searchBookByName.
+In StudentServiceImplementation junit test checking searchBookByName function in case book and library are not null
+In StudentServiceImplementation junit test checking SearchBookByAuthorName function in case book and library are not null
+In StudentServicesImplementation class and in function searchBookByName.
+In StudentServiceImplementation junit test checking searchBookByName function in case book and library are not null
+In StudentServiceImplementation junit test checking SearchBookByAuthorName function in case book and library are not null
+In StudentServicesImplementation class and in function searchBookByName.
+In StudentServiceImplementation junit test checking searchBookByName function in case book and library are not null
+In StudentServiceImplementation junit test checking SearchBookByAuthorName function in case book and library are not null
+In StudentServicesImplementation class and in function searchBookByName.
+In StudentServiceImplementation junit test checking searchBookByName function in case book and library are not null
+In StudentServiceImplementation junit test checking searchBookByName function in case book and library are not null
+In StudentServiceImplementation junit test checking searchBookByName function in case book and library are not null
+In StudentServicesImplementation class and in function searchBookByName.
+In StudentServiceImplementation junit test checking SearchBookByAuthorName function in case book and library are not null
+In StudentServicesImplementation class and in function searchBookByName.
+In StudentServiceImplementation junit test checking LoanABook function in case book is empty
+In StudentServiceImplementation junit test checking LoanABook function in case book is null
+In StudentServiceImplementation junit test checking LoanABook function in case values are as per expectation
+In StudentServicesImplementation class and in function loanABook.
+In StudentServicesImplementation class and in function loanABook and book loaned successfully.
+In StudentServiceImplementation junit test checking searchBookByName function in case book and library are not null
+In StudentServicesImplementation class and in function searchBookByName.
+In StudentServiceImplementation junit test checking LoanABook function in case student is null
+In StudentServiceImplementation junit test checking LoanABook function in case student is not null
+In StudentServicesImplementation class and in function loanABook.
+In StudentServicesImplementation class and in function loanABook and book not loaned successfully.
+In StudentServiceImplementation junit test checking SearchBookByAuthorName function in case book is null
+In StudentServiceImplementation junit test checking searchBookByName function in case book is null
+Library created using LibraryDaoImplementation
+Library created
+Librarian created and added to library using LibraryDaoImplementation
+libraryDao called for librarian creation and addition to library
+Student created and added to library using LibraryDaoImplementation
+libraryDao called for student creation and addition to library
+Services called
+Login class called
+When login of user fails
+Asking user wheather he/she wants to continue or not
+Login successfull for Librarian module.
+In librarian module.
+Showing librarian module's menu.
+Logging out
+In librarian module functionality asking user wheather to continue or not
+In librarian module.
+Showing librarian module's menu.
+Logging out
+In librarian module functionality asking user wheather to continue or not
+Asking user wheather he/she wants to continue or not
+Login successfull for Student module.
+In student module
+Showing student module's menu.
+Logging out
+In Student module functionality asking user wheather to continue or not
+In student module
+Showing student module's menu.
+Logging out
+In Student module functionality asking user wheather to continue or not
+Asking user wheather he/she wants to continue or not
+Library created using LibraryDaoImplementation
+Library created
+Librarian created and added to library using LibraryDaoImplementation
+libraryDao called for librarian creation and addition to library
+Student created and added to library using LibraryDaoImplementation
+libraryDao called for student creation and addition to library
+Services called
+Login class called
+Login successfull for Student module.
+In student module
+Showing student module's menu.
+Logging out
+In Student module functionality asking user wheather to continue or not
+In student module
+Showing student module's menu.
+Logging out
+In Student module functionality asking user wheather to continue or not
+Asking user wheather he/she wants to continue or not
+Login successfull for Student module.
+In student module
+Showing student module's menu.
+Library created using LibraryDaoImplementation
+Library created
+Librarian created and added to library using LibraryDaoImplementation
+libraryDao called for librarian creation and addition to library
+Student created and added to library using LibraryDaoImplementation
+libraryDao called for student creation and addition to library
+Services called
+Login class called
+When login of user fails
+Asking user wheather he/she wants to continue or not
+When login of user fails
+Asking user wheather he/she wants to continue or not
+When login of user fails
+Asking user wheather he/she wants to continue or not
+Login successfull for Student module.
+In student module
+Showing student module's menu.
+Logging out
+In Student module functionality asking user wheather to continue or not
+Asking user wheather he/she wants to continue or not
+Login successfull for Student module.
+In student module
+Showing student module's menu.
+Logging out
+In Student module functionality asking user wheather to continue or not
+Asking user wheather he/she wants to continue or not
+Login successfull for Librarian module.
+In librarian module.
+Showing librarian module's menu.
+Logging out
+In librarian module functionality asking user wheather to continue or not
+In librarian module.
+Showing librarian module's menu.
+Logging out
+In librarian module functionality asking user wheather to continue or not
+Asking user wheather he/she wants to continue or not
+Login successfull for Librarian module.
+In librarian module.
+Showing librarian module's menu.
+Logging out
+In librarian module functionality asking user wheather to continue or not
+In librarian module.
+Showing librarian module's menu.
+Logging out
+In librarian module functionality asking user wheather to continue or not
+Asking user wheather he/she wants to continue or not
+Login successfull for Librarian module.
+In librarian module.
+Showing librarian module's menu.
+Logging out
+In librarian module functionality asking user wheather to continue or not
+Asking user wheather he/she wants to continue or not
+Login successfull for Student module.
+In student module
+Showing student module's menu.
+Logging out
+In Student module functionality asking user wheather to continue or not
+Asking user wheather he/she wants to continue or not
+Login successfull for Student module.
+In student module
+Showing student module's menu.
+Logging out
+In Student module functionality asking user wheather to continue or not
+Asking user wheather he/she wants to continue or not
+Login successfull for Student module.
+In student module
+Showing student module's menu.
+Logging out
+In Student module functionality asking user wheather to continue or not
+Asking user wheather he/she wants to continue or not
+Login successfull for Librarian module.
+In librarian module.
+Showing librarian module's menu.
+Logging out
+In librarian module functionality asking user wheather to continue or not
+Asking user wheather he/she wants to continue or not
+Login successfull for Librarian module.
+In librarian module.
+Showing librarian module's menu.
+Logging out
+In librarian module functionality asking user wheather to continue or not
+Library created using LibraryDaoImplementation
+Library created
+Librarian created and added to library using LibraryDaoImplementation
+libraryDao called for librarian creation and addition to library
+Student created and added to library using LibraryDaoImplementation
+libraryDao called for student creation and addition to library
+Services called
+Login class called
+Library created using LibraryDaoImplementation
+Library created
+Librarian created and added to library using LibraryDaoImplementation
+libraryDao called for librarian creation and addition to library
+Student created and added to library using LibraryDaoImplementation
+libraryDao called for student creation and addition to library
+Services called
+Login class called
+Login successfull for Librarian module.
+In librarian module.
+Showing librarian module's menu.
+Logging out
+In librarian module functionality asking user wheather to continue or not
+In librarian module.
+Showing librarian module's menu.
+Logging out
+In librarian module functionality asking user wheather to continue or not
+Asking user wheather he/she wants to continue or not
+When login of user fails
+Asking user wheather he/she wants to continue or not
+In LibrarianServicesImplementation junit test checking addBooks function in case book is null
+In StudentServiceImplementation junit test checking SearchBookByAuthorName function in case book and library are not null
+In StudentServicesImplementation class and in function searchBookByName.
+In StudentServiceImplementation junit test checking LoanABook function in case book is empty
+In StudentServiceImplementation junit test checking LoanABook function in case book is null
+In StudentServiceImplementation junit test checking LoanABook function in case values are as per expectation
+In StudentServicesImplementation class and in function loanABook.
+In StudentServicesImplementation class and in function loanABook and book loaned successfully.
+In StudentServiceImplementation junit test checking searchBookByName function in case book and library are not null
+In StudentServicesImplementation class and in function searchBookByName.
+In StudentServiceImplementation junit test checking LoanABook function in case student is null
+In StudentServiceImplementation junit test checking LoanABook function in case student is not null
+In StudentServicesImplementation class and in function loanABook.
+In StudentServicesImplementation class and in function loanABook and book not loaned successfully.
+In StudentServiceImplementation junit test checking SearchBookByAuthorName function in case book is null
+In StudentServiceImplementation junit test checking searchBookByName function in case book is null
+In StudentServiceImplementation junit test checking returnBook book is null
+In StudentServicesImplementation class and in function returnBook.
+In StudentServicesImplementation class and in function returnBook and book not returned successfully.
+In StudentServiceImplementation junit test checking SearchBookByAuthorName function in case book and library are not null
+In StudentServicesImplementation class and in function searchBookByName.
+In StudentServiceImplementation junit test checking LoanABook function in case book is empty
+In StudentServiceImplementation junit test checking LoanABook function in case book is null
+In StudentServiceImplementation junit test checking LoanABook function in case values are as per expectation
+In StudentServicesImplementation class and in function loanABook.
+In StudentServicesImplementation class and in function loanABook and book loaned successfully.
+In StudentServiceImplementation junit test checking searchBookByName function in case book and library are not null
+In StudentServicesImplementation class and in function searchBookByName.
+In StudentServiceImplementation junit test checking LoanABook function in case student is null
+In StudentServiceImplementation junit test checking LoanABook function in case student is not null
+In StudentServicesImplementation class and in function loanABook.
+In StudentServicesImplementation class and in function loanABook and book not loaned successfully.
+In StudentServiceImplementation junit test checking SearchBookByAuthorName function in case book is null
+In StudentServiceImplementation junit test checking searchBookByName function in case book is null
+In StudentServiceImplementation junit test checking returnBook book is null
+In StudentServicesImplementation class and in function returnBook.
+In StudentServicesImplementation class and in function returnBook and book not returned successfully.
+In StudentServiceImplementation junit test checking SearchBookByAuthorName function in case book and library are not null
+In StudentServicesImplementation class and in function searchBookByName.
+In StudentServiceImplementation junit test checking LoanABook function in case book is empty
+In StudentServiceImplementation junit test checking LoanABook function in case book is null
+In StudentServiceImplementation junit test checking LoanABook function in case values are as per expectation
+In StudentServicesImplementation class and in function loanABook.
+In StudentServicesImplementation class and in function loanABook and book loaned successfully.
+In StudentServiceImplementation junit test checking searchBookByName function in case book and library are not null
+In StudentServicesImplementation class and in function searchBookByName.
+In StudentServiceImplementation junit test checking LoanABook function in case student is null
+In StudentServiceImplementation junit test checking LoanABook function in case student is not null
+In StudentServicesImplementation class and in function loanABook.
+In StudentServicesImplementation class and in function loanABook and book not loaned successfully.
+In StudentServiceImplementation junit test checking SearchBookByAuthorName function in case book is null
+In StudentServiceImplementation junit test checking searchBookByName function in case book is null
+In StudentServiceImplementation junit test checking returnBook book is null
+In StudentServicesImplementation class and in function returnBook.
+In StudentServicesImplementation class and in function returnBook and book not returned successfully.
+In StudentServiceImplementation junit test checking SearchBookByAuthorName function in case book and library are not null
+In StudentServicesImplementation class and in function searchBookByName.
+In StudentServiceImplementation junit test checking LoanABook function in case book is empty
+In StudentServiceImplementation junit test checking LoanABook function in case book is null
+In StudentServiceImplementation junit test checking LoanABook function in case values are as per expectation
+In StudentServicesImplementation class and in function loanABook.
+In StudentServicesImplementation class and in function loanABook and book loaned successfully.
+In StudentServiceImplementation junit test checking searchBookByName function in case book and library are not null
+In StudentServicesImplementation class and in function searchBookByName.
+In StudentServiceImplementation junit test checking LoanABook function in case student is null
+In StudentServiceImplementation junit test checking returnBook book is null
+In StudentServicesImplementation class and in function returnBook.
+In StudentServiceImplementation junit test checking LoanABook function in case student is not null
+In StudentServicesImplementation class and in function loanABook.
+In StudentServicesImplementation class and in function loanABook and book not loaned successfully.
+In StudentServiceImplementation junit test checking SearchBookByAuthorName function in case book is null
+In StudentServiceImplementation junit test checking searchBookByName function in case book is null
+In StudentServiceImplementation junit test checking returnBook book is null
+In StudentServicesImplementation class and in function returnBook.
+In StudentServicesImplementation class and in function returnBook and book not returned successfully.
+In StudentServiceImplementation junit test checking SearchBookByAuthorName function in case book and library are not null
+In StudentServicesImplementation class and in function searchBookByName.
+In StudentServiceImplementation junit test checking LoanABook function in case book is empty
+In StudentServiceImplementation junit test checking LoanABook function in case book is null
+In StudentServiceImplementation junit test checking LoanABook function in case values are as per expectation
+In StudentServicesImplementation class and in function loanABook.
+In StudentServicesImplementation class and in function loanABook and book loaned successfully.
+In StudentServiceImplementation junit test checking searchBookByName function in case book and library are not null
+In StudentServicesImplementation class and in function searchBookByName.
+In StudentServiceImplementation junit test checking LoanABook function in case student is null
+In StudentServiceImplementation junit test checking returnBook book is null
+In StudentServiceImplementation junit test checking LoanABook function in case student is not null
+In StudentServicesImplementation class and in function loanABook.
+In StudentServicesImplementation class and in function loanABook and book not loaned successfully.
+In StudentServiceImplementation junit test checking SearchBookByAuthorName function in case book is null
+In StudentServiceImplementation junit test checking searchBookByName function in case book is null
+In StudentServiceImplementation junit test checking returnBook book is null
+In StudentServiceImplementation junit test checking SearchBookByAuthorName function in case book and library are not null
+In StudentServicesImplementation class and in function searchBookByName.
+In StudentServiceImplementation junit test checking LoanABook function in case book is empty
+In StudentServiceImplementation junit test checking LoanABook function in case book is null
+In StudentServiceImplementation junit test checking LoanABook function in case values are as per expectation
+In StudentServicesImplementation class and in function loanABook.
+In StudentServicesImplementation class and in function loanABook and book loaned successfully.
+In StudentServiceImplementation junit test checking searchBookByName function in case book and library are not null
+In StudentServicesImplementation class and in function searchBookByName.
+In StudentServiceImplementation junit test checking LoanABook function in case student is null
+In StudentServiceImplementation junit test checking returnBook book is null
+In StudentServiceImplementation junit test checking LoanABook function in case student is not null
+In StudentServicesImplementation class and in function loanABook.
+In StudentServicesImplementation class and in function loanABook and book not loaned successfully.
+In StudentServiceImplementation junit test checking returnBook book is null
+In StudentServiceImplementation junit test checking SearchBookByAuthorName function in case book is null
+In StudentServiceImplementation junit test checking searchBookByName function in case book is null
+In StudentServiceImplementation junit test checking returnBook book is null
+In StudentServiceImplementation junit test checking SearchBookByAuthorName function in case book and library are not null
+In StudentServicesImplementation class and in function searchBookByName.
+In StudentServiceImplementation junit test checking LoanABook function in case book is empty
+In StudentServiceImplementation junit test checking LoanABook function in case book is null
+In StudentServiceImplementation junit test checking LoanABook function in case values are as per expectation
+In StudentServicesImplementation class and in function loanABook.
+In StudentServicesImplementation class and in function loanABook and book loaned successfully.
+In StudentServiceImplementation junit test checking searchBookByName function in case book and library are not null
+In StudentServicesImplementation class and in function searchBookByName.
+In StudentServiceImplementation junit test checking returnBook when all conditions full filled
+In StudentServicesImplementation class and in function loanABook.
+In StudentServicesImplementation class and in function loanABook and book not loaned successfully.
+In StudentServicesImplementation class and in function returnBook.
+In StudentServicesImplementation class and in function returnBook and book not returned successfully.
+In StudentServiceImplementation junit test checking LoanABook function in case student is null
+In StudentServiceImplementation junit test checking returnBook when student is null
+In StudentServiceImplementation junit test checking LoanABook function in case student is not null
+In StudentServicesImplementation class and in function loanABook.
+In StudentServicesImplementation class and in function loanABook and book not loaned successfully.
+In StudentServiceImplementation junit test checking returnBook when book is Empty
+In StudentServiceImplementation junit test checking SearchBookByAuthorName function in case book is null
+In StudentServiceImplementation junit test checking searchBookByName function in case book is null
+In StudentServiceImplementation junit test checking returnBook when book is null
+In StudentServiceImplementation junit test checking SearchBookByAuthorName function in case book and library are not null
+In StudentServicesImplementation class and in function searchBookByName.
+In StudentServiceImplementation junit test checking LoanABook function in case book is empty
+In StudentServiceImplementation junit test checking LoanABook function in case book is null
+In StudentServiceImplementation junit test checking LoanABook function in case values are as per expectation
+In StudentServicesImplementation class and in function loanABook.
+In StudentServicesImplementation class and in function loanABook and book loaned successfully.
+In StudentServiceImplementation junit test checking searchBookByName function in case book and library are not null
+In StudentServicesImplementation class and in function searchBookByName.
+In StudentServiceImplementation junit test checking returnBook when all conditions full filled
+In StudentServicesImplementation class and in function loanABook.
+In StudentServicesImplementation class and in function loanABook and book not loaned successfully.
+In StudentServicesImplementation class and in function returnBook.
+In StudentServicesImplementation class and in function returnBook and book not returned successfully.
+In StudentServiceImplementation junit test checking LoanABook function in case student is null
+In StudentServiceImplementation junit test checking returnBook when student is null
+In StudentServiceImplementation junit test checking LoanABook function in case student is not null
+In StudentServicesImplementation class and in function loanABook.
+In StudentServicesImplementation class and in function loanABook and book not loaned successfully.
+In StudentServiceImplementation junit test checking returnBook when book is Empty
+In StudentServiceImplementation junit test checking SearchBookByAuthorName function in case book is null
+In StudentServiceImplementation junit test checking searchBookByName function in case book is null
+In StudentServiceImplementation junit test checking returnBook when book is null
+In StudentServiceImplementation junit test checking SearchBookByAuthorName function in case book and library are not null
+In StudentServicesImplementation class and in function searchBookByName.
+In StudentServiceImplementation junit test checking LoanABook function in case book is empty
+In StudentServiceImplementation junit test checking LoanABook function in case book is null
+In StudentServiceImplementation junit test checking LoanABook function in case values are as per expectation
+In StudentServicesImplementation class and in function loanABook.
+In StudentServicesImplementation class and in function loanABook and book loaned successfully.
+In StudentServiceImplementation junit test checking searchBookByName function in case book and library are not null
+In StudentServicesImplementation class and in function searchBookByName.
+In StudentServiceImplementation junit test checking returnBook when all conditions full filled
+In StudentServicesImplementation class and in function loanABook.
+In StudentServicesImplementation class and in function loanABook and book not loaned successfully.
+In StudentServicesImplementation class and in function returnBook.
+In StudentServicesImplementation class and in function returnBook and book not returned successfully.
+In StudentServiceImplementation junit test checking LoanABook function in case student is null
+In StudentServiceImplementation junit test checking returnBook when student is null
+In StudentServiceImplementation junit test checking LoanABook function in case student is not null
+In StudentServicesImplementation class and in function loanABook.
+In StudentServicesImplementation class and in function loanABook and book not loaned successfully.
+In StudentServiceImplementation junit test checking returnBook when book is Empty
+In StudentServiceImplementation junit test checking SearchBookByAuthorName function in case book is null
+In StudentServiceImplementation junit test checking searchBookByName function in case book is null
+In StudentServiceImplementation junit test checking returnBook when book is null
+In StudentServiceImplementation junit test checking SearchBookByAuthorName function in case book and library are not null
+In StudentServicesImplementation class and in function searchBookByName.
+In StudentServiceImplementation junit test checking LoanABook function in case book is empty
+In StudentServiceImplementation junit test checking LoanABook function in case book is null
+In StudentServiceImplementation junit test checking LoanABook function in case values are as per expectation
+In StudentServicesImplementation class and in function loanABook.
+In StudentServicesImplementation class and in function loanABook and book loaned successfully.
+In StudentServiceImplementation junit test checking searchBookByName function in case book and library are not null
+In StudentServicesImplementation class and in function searchBookByName.
+In StudentServiceImplementation junit test checking returnBook when all conditions full filled
+In StudentServicesImplementation class and in function loanABook.
+In StudentServicesImplementation class and in function loanABook and book not loaned successfully.
+In StudentServicesImplementation class and in function returnBook.
+In StudentServicesImplementation class and in function returnBook and book not returned successfully.
+In StudentServiceImplementation junit test checking LoanABook function in case student is null
+In StudentServiceImplementation junit test checking returnBook when student is null
+In StudentServiceImplementation junit test checking LoanABook function in case student is not null
+In StudentServicesImplementation class and in function loanABook.
+In StudentServicesImplementation class and in function loanABook and book not loaned successfully.
+In StudentServiceImplementation junit test checking returnBook when book is Empty
+In StudentServiceImplementation junit test checking SearchBookByAuthorName function in case book is null
+In StudentServiceImplementation junit test checking searchBookByName function in case book is null
+In StudentServiceImplementation junit test checking returnBook when book is null
+In StudentServiceImplementation junit test checking SearchBookByAuthorName function in case book and library are not null
+In StudentServicesImplementation class and in function searchBookByName.
+In StudentServiceImplementation junit test checking LoanABook function in case book is empty
+In StudentServiceImplementation junit test checking LoanABook function in case book is null
+In StudentServiceImplementation junit test checking LoanABook function in case values are as per expectation
+In StudentServicesImplementation class and in function loanABook.
+In StudentServicesImplementation class and in function loanABook and book loaned successfully.
+In StudentServiceImplementation junit test checking searchBookByName function in case book and library are not null
+In StudentServicesImplementation class and in function searchBookByName.
+In StudentServiceImplementation junit test checking returnBook when all conditions full filled
+In StudentServicesImplementation class and in function loanABook.
+In StudentServicesImplementation class and in function loanABook and book not loaned successfully.
+In StudentServicesImplementation class and in function returnBook.
+In StudentServicesImplementation class and in function returnBook and book not returned successfully.
+In StudentServiceImplementation junit test checking LoanABook function in case student is null
+In StudentServiceImplementation junit test checking returnBook when student is null
+In StudentServiceImplementation junit test checking LoanABook function in case student is not null
+In StudentServicesImplementation class and in function loanABook.
+In StudentServicesImplementation class and in function loanABook and book not loaned successfully.
+In StudentServiceImplementation junit test checking returnBook when book is Empty
+In StudentServiceImplementation junit test checking SearchBookByAuthorName function in case book is null
+In StudentServiceImplementation junit test checking searchBookByName function in case book is null
+In StudentServiceImplementation junit test checking returnBook when book is null
+In StudentServiceImplementation junit test checking SearchBookByAuthorName function in case book and library are not null
+In StudentServicesImplementation class and in function searchBookByName.
+In StudentServiceImplementation junit test checking LoanABook function in case book is empty
+In StudentServiceImplementation junit test checking LoanABook function in case book is null
+In StudentServiceImplementation junit test checking LoanABook function in case values are as per expectation
+In StudentServicesImplementation class and in function loanABook.
+In StudentServicesImplementation class and in function loanABook and book loaned successfully.
+In StudentServiceImplementation junit test checking searchBookByName function in case book and library are not null
+In StudentServicesImplementation class and in function searchBookByName.
+In StudentServiceImplementation junit test checking returnBook when all conditions full filled
+In StudentServicesImplementation class and in function loanABook.
+In StudentServicesImplementation class and in function loanABook and book not loaned successfully.
+In StudentServicesImplementation class and in function returnBook.
+In StudentServicesImplementation class and in function returnBook and book not returned successfully.
+In StudentServiceImplementation junit test checking LoanABook function in case student is null
+In StudentServiceImplementation junit test checking returnBook when student is null
+In StudentServiceImplementation junit test checking LoanABook function in case student is not null
+In StudentServicesImplementation class and in function loanABook.
+In StudentServicesImplementation class and in function loanABook and book not loaned successfully.
+In StudentServiceImplementation junit test checking returnBook when book is Empty
+In StudentServiceImplementation junit test checking SearchBookByAuthorName function in case book is null
+In StudentServiceImplementation junit test checking searchBookByName function in case book is null
+In StudentServiceImplementation junit test checking returnBook when book is null
+In StudentServiceImplementation junit test checking SearchBookByAuthorName function in case book and library are not null
+In StudentServicesImplementation class and in function searchBookByName.
+In StudentServiceImplementation junit test checking LoanABook function in case book is empty
+In StudentServiceImplementation junit test checking LoanABook function in case book is null
+In StudentServiceImplementation junit test checking LoanABook function in case values are as per expectation
+In StudentServicesImplementation class and in function loanABook.
+In StudentServicesImplementation class and in function loanABook and book loaned successfully.
+In StudentServiceImplementation junit test checking searchBookByName function in case book and library are not null
+In StudentServicesImplementation class and in function searchBookByName.
+In StudentServiceImplementation junit test checking returnBook when all conditions full filled
+In StudentServicesImplementation class and in function loanABook.
+In StudentServicesImplementation class and in function loanABook and book not loaned successfully.
+In StudentServicesImplementation class and in function returnBook.
+In StudentServicesImplementation class and in function returnBook and book not returned successfully.
+In StudentServiceImplementation junit test checking LoanABook function in case student is null
+In StudentServiceImplementation junit test checking returnBook when student is null
+In StudentServiceImplementation junit test checking LoanABook function in case student is not null
+In StudentServicesImplementation class and in function loanABook.
+In StudentServicesImplementation class and in function loanABook and book not loaned successfully.
+In StudentServiceImplementation junit test checking returnBook when book is Empty
+In StudentServiceImplementation junit test checking SearchBookByAuthorName function in case book is null
+In StudentServiceImplementation junit test checking searchBookByName function in case book is null
+In StudentServiceImplementation junit test checking returnBook when book is null
+In StudentServiceImplementation junit test checking SearchBookByAuthorName function in case book and library are not null
+In StudentServicesImplementation class and in function searchBookByName.
+In StudentServiceImplementation junit test checking LoanABook function in case book is empty
+In StudentServiceImplementation junit test checking LoanABook function in case book is null
+In StudentServiceImplementation junit test checking LoanABook function in case values are as per expectation
+In StudentServicesImplementation class and in function loanABook.
+In StudentServicesImplementation class and in function loanABook and book loaned successfully.
+In StudentServiceImplementation junit test checking searchBookByName function in case book and library are not null
+In StudentServicesImplementation class and in function searchBookByName.
+In StudentServiceImplementation junit test checking returnBook when all conditions full filled
+In StudentServicesImplementation class and in function loanABook.
+In StudentServicesImplementation class and in function loanABook and book not loaned successfully.
+In StudentServicesImplementation class and in function returnBook.
+In StudentServicesImplementation class and in function returnBook and book not returned successfully.
+In StudentServiceImplementation junit test checking LoanABook function in case student is null
+In StudentServiceImplementation junit test checking returnBook when student is null
+In StudentServiceImplementation junit test checking LoanABook function in case student is not null
+In StudentServicesImplementation class and in function loanABook.
+In StudentServicesImplementation class and in function loanABook and book not loaned successfully.
+In StudentServiceImplementation junit test checking returnBook when book is Empty
+In StudentServiceImplementation junit test checking SearchBookByAuthorName function in case book is null
+In StudentServiceImplementation junit test checking searchBookByName function in case book is null
+In StudentServiceImplementation junit test checking returnBook when book is null
+In StudentServiceImplementation junit test checking returnBook when all conditions full filled
+In StudentServicesImplementation class and in function loanABook.
+In StudentServicesImplementation class and in function loanABook and book not loaned successfully.
+In StudentServicesImplementation class and in function returnBook.
+In StudentServicesImplementation class and in function returnBook and book not returned successfully.
+In StudentServiceImplementation junit test checking returnBook when all conditions full filled
+In StudentServicesImplementation class and in function loanABook.
+In StudentServicesImplementation class and in function loanABook and book not loaned successfully.
+In StudentServicesImplementation class and in function returnBook.
+In StudentServicesImplementation class and in function returnBook and book not returned successfully.
+In StudentServiceImplementation junit test checking returnBook when all conditions full filled
+In StudentServicesImplementation class and in function loanABook.
+In StudentServicesImplementation class and in function loanABook and book not loaned successfully.
+In StudentServicesImplementation class and in function returnBook.
+In StudentServicesImplementation class and in function returnBook and book not returned successfully.
+In StudentServiceImplementation junit test checking returnBook when all conditions full filled
+In StudentServicesImplementation class and in function loanABook.
+In StudentServicesImplementation class and in function loanABook and book loaned successfully.
+In StudentServiceImplementation junit test checking returnBook when all conditions full filled
+In StudentServicesImplementation class and in function loanABook.
+In StudentServicesImplementation class and in function loanABook and book loaned successfully.
+In StudentServicesImplementation class and in function returnBook.
+In StudentServicesImplementation class and in function returnBook and book not returned successfully.
+In StudentServiceImplementation junit test checking returnBook when all conditions full filled
+In StudentServicesImplementation class and in function loanABook.
+In StudentServicesImplementation class and in function loanABook and book loaned successfully.
+In StudentServicesImplementation class and in function returnBook.
+In StudentServicesImplementation class and in function returnBook and book not returned successfully.
+In StudentServiceImplementation junit test checking returnBook when all conditions full filled
+In StudentServicesImplementation class and in function loanABook.
+In StudentServicesImplementation class and in function loanABook and book loaned successfully.
+In StudentServicesImplementation class and in function returnBook.
+In StudentServicesImplementation class and in function returnBook and book not returned successfully.
+Library created using LibraryDaoImplementation
+Library created
+Librarian created and added to library using LibraryDaoImplementation
+libraryDao called for librarian creation and addition to library
+Student created and added to library using LibraryDaoImplementation
+libraryDao called for student creation and addition to library
+Services called
+Login class called
+Login successfull for Librarian module.
+In librarian module.
+Showing librarian module's menu.
+In librarian module functionality 1).Add books.
+In librarian module functionality asking user wheather to continue or not
+Asking user wheather he/she wants to continue or not
+Login successfull for Student module.
+In student module
+Showing student module's menu.
+In student module functionality 3).Loan a book.
+In StudentServicesImplementation class and in function listOfBooks.
+In StudentServicesImplementation class and in function loanABook.
+In StudentServicesImplementation class and in function loanABook and book loaned successfully.
+In Student module functionality asking user wheather to continue or not
+In student module
+Showing student module's menu.
+In StudentServicesImplementation class and in function listOfStudentsBooks.
+In student module functionality 4).Return a book.
+In StudentServicesImplementation class and in function returnBook.
+In StudentDaoimplementation class and in case book returned successfully.
+In StudentServicesImplementation class and in function returnBook and book returned successfully.
+In Student module functionality asking user wheather to continue or not
+In student module
+Showing student module's menu.
+In student module functionality 5).See books avaiable.
+In StudentServicesImplementation class and in function listOfBooks.
+In Student module functionality asking user wheather to continue or not
+In StudentServiceImplementation junit test checking returnBook when all conditions full filled
+In StudentServicesImplementation class and in function loanABook.
+In StudentServicesImplementation class and in function loanABook and book loaned successfully.
+In StudentServicesImplementation class and in function returnBook.
+In StudentDaoimplementation class and in case book returned successfully.
+In StudentServicesImplementation class and in function returnBook and book returned successfully.
+In StudentServiceImplementation junit test checking returnBook when all conditions full filled
+In StudentServicesImplementation class and in function loanABook.
+In StudentServicesImplementation class and in function loanABook and book loaned successfully.
+In StudentServicesImplementation class and in function returnBook.
+In StudentDaoimplementation class and in case book returned successfully.
+In StudentServicesImplementation class and in function returnBook and book returned successfully.
+In StudentServiceImplementation junit test checking returnBook when all conditions full filled
+In StudentServicesImplementation class and in function loanABook.
+In StudentServicesImplementation class and in function loanABook and book loaned successfully.
+In StudentServicesImplementation class and in function returnBook.
+In StudentDaoimplementation class and in case book returned successfully.
+In StudentServicesImplementation class and in function returnBook and book returned successfully.
+In StudentServiceImplementation junit test checking SearchBookByAuthorName function in case book and library are not null
+In StudentServicesImplementation class and in function searchBookByName.
+In StudentServiceImplementation junit test checking LoanABook function in case book is empty
+In StudentServiceImplementation junit test checking LoanABook function in case book is null
+In StudentServiceImplementation junit test checking LoanABook function in case values are as per expectation
+In StudentServicesImplementation class and in function loanABook.
+In StudentServicesImplementation class and in function loanABook and book loaned successfully.
+In StudentServiceImplementation junit test checking searchBookByName function in case book and library are not null
+In StudentServicesImplementation class and in function searchBookByName.
+In StudentServiceImplementation junit test checking returnBook when all conditions full filled
+In StudentServicesImplementation class and in function loanABook.
+In StudentServicesImplementation class and in function loanABook and book loaned successfully.
+In StudentServicesImplementation class and in function returnBook.
+In StudentDaoimplementation class and in case book returned successfully.
+In StudentServicesImplementation class and in function returnBook and book returned successfully.
+In StudentServiceImplementation junit test checking LoanABook function in case student is null
+In StudentServiceImplementation junit test checking returnBook when student is null
+In StudentServiceImplementation junit test checking LoanABook function in case student is not null
+In StudentServicesImplementation class and in function loanABook.
+In StudentServicesImplementation class and in function loanABook and book not loaned successfully.
+In StudentServiceImplementation junit test checking returnBook when book is Empty
+In StudentServiceImplementation junit test checking SearchBookByAuthorName function in case book is null
+In StudentServiceImplementation junit test checking searchBookByName function in case book is null
+In StudentServiceImplementation junit test checking returnBook when book is null
+Library created using LibraryDaoImplementation
+Library created
+In StudentServiceImplementation junit test checking SearchBookByAuthorName function in case book and library are not null
+In StudentServicesImplementation class and in function searchBookByName.
+In StudentServiceImplementation junit test checking LoanABook function in case book is empty
+In StudentServiceImplementation junit test checking LoanABook function in case book is null
+In StudentServiceImplementation junit test checking LoanABook function in case values are as per expectation
+In StudentServicesImplementation class and in function loanABook.
+In StudentServicesImplementation class and in function loanABook and book loaned successfully.
+In StudentServiceImplementation junit test checking searchBookByName function in case book and library are not null
+In StudentServicesImplementation class and in function searchBookByName.
+In StudentServiceImplementation junit test checking returnBook when all conditions full filled
+In StudentServicesImplementation class and in function loanABook.
+In StudentServicesImplementation class and in function loanABook and book loaned successfully.
+In StudentServicesImplementation class and in function returnBook.
+In StudentDaoimplementation class and in case book returned successfully.
+In StudentServicesImplementation class and in function returnBook and book returned successfully.
+In StudentServiceImplementation junit test checking LoanABook function in case student is null
+In StudentServiceImplementation junit test checking returnBook when student is null
+In StudentServiceImplementation junit test checking LoanABook function in case student is not null
+In StudentServicesImplementation class and in function loanABook.
+In StudentServicesImplementation class and in function loanABook and book not loaned successfully.
+In StudentServiceImplementation junit test checking returnBook when book is Empty
+In StudentServiceImplementation junit test checking SearchBookByAuthorName function in case book is null
+In StudentServiceImplementation junit test checking searchBookByName function in case book is null
+In StudentServiceImplementation junit test checking returnBook when book is null
+In LibrarianServicesImplementation junit test checking listOfBooks function in case book is null
+In LibrarianServicesImplementation class and printing list of books.
+In LibrarianServicesImplementation junit test checking addBooks function in case book is null
+In LibrarianServicesImplementation junit test checking addBooks function in case book and library are not null
+In LibrarianServicesImplementation junit test checking studentsList function in case library is null
+In LibrarianServicesImplementation class and printing list of students registered with the library.
+In LibrarianServicesImplementation junit test checking studentsList function in case library is not null
+In LibrarianServicesImplementation class and printing list of students registered with the library.
+In LibrarianServicesImplementation junit test checking loanedBooks function in case library is not null
+In LibrarianServicesImplementation class and printing list of books loaned.
+In LibrarianServicesImplementation junit test checking loanedBooks function in case library is null
+In LibrarianServicesImplementation class and printing list of books loaned.
+In LibrarianServicesImplementation class and printing list of books loaned.
+Library created using LibraryDaoImplementation
+Library created
+Librarian created and added to library using LibraryDaoImplementation
+libraryDao called for librarian creation and addition to library
+Student created and added to library using LibraryDaoImplementation
+libraryDao called for student creation and addition to library
+Services called
+Login class called
+When login of user fails
+Asking user wheather he/she wants to continue or not
+Login successfull for Student module.
+In student module
+Showing student module's menu.
+Logging out
+In Student module functionality asking user wheather to continue or not
+Asking user wheather he/she wants to continue or not
+When login of user fails
+Asking user wheather he/she wants to continue or not
+Login successfull for Librarian module.
+In librarian module.
+Showing librarian module's menu.
+Logging out
+In librarian module functionality asking user wheather to continue or not
+Asking user wheather he/she wants to continue or not
+When login of user fails
+Asking user wheather he/she wants to continue or not
+In StudentServiceImplementation junit test checking SearchBookByAuthorName function in case book and library are not null
+In StudentServicesImplementation class and in function searchBookByName.
+In StudentServiceImplementation junit test checking LoanABook function in case book is empty
+In StudentServiceImplementation junit test checking LoanABook function in case book is null
+In StudentServiceImplementation junit test checking LoanABook function in case values are as per expectation
+In StudentServicesImplementation class and in function loanABook.
+In StudentServicesImplementation class and in function loanABook and book loaned successfully.
+In StudentServiceImplementation junit test checking searchBookByName function in case book and library are not null
+In StudentServicesImplementation class and in function searchBookByName.
+In StudentServiceImplementation junit test checking returnBook when all conditions full filled
+In StudentServicesImplementation class and in function loanABook.
+In StudentServicesImplementation class and in function loanABook and book loaned successfully.
+In StudentServicesImplementation class and in function returnBook.
+In StudentDaoimplementation class and in case book returned successfully.
+In StudentServicesImplementation class and in function returnBook and book returned successfully.
+In StudentServiceImplementation junit test checking LoanABook function in case student is null
+In StudentServiceImplementation junit test checking returnBook when student is null
+In StudentServiceImplementation junit test checking LoanABook function in case student is not null
+In StudentServicesImplementation class and in function loanABook.
+In StudentServicesImplementation class and in function loanABook and book not loaned successfully.
+In StudentServiceImplementation junit test checking returnBook when book is Empty
+In StudentServiceImplementation junit test checking SearchBookByAuthorName function in case book is null
+In StudentServiceImplementation junit test checking searchBookByName function in case book is null
+In StudentServiceImplementation junit test checking returnBook when book is null
+In LibrarianServicesImplementation junit test checking listOfBooks function in case book is null
+In LibrarianServicesImplementation class and printing list of books.
+In LibrarianServicesImplementation junit test checking addBooks function in case book is null
+In LibrarianServicesImplementation junit test checking addBooks function in case book and library are not null
+In LibrarianServicesImplementation junit test checking studentsList function in case library is null
+In LibrarianServicesImplementation class and printing list of students registered with the library.
+In LibrarianServicesImplementation junit test checking studentsList function in case library is not null
+In LibrarianServicesImplementation class and printing list of students registered with the library.
+In LibrarianServicesImplementation junit test checking loanedBooks function in case library is not null
+In LibrarianServicesImplementation class and printing list of books loaned.
+In LibrarianServicesImplementation junit test checking loanedBooks function in case library is null
+In LibrarianServicesImplementation class and printing list of books loaned.
+In LibrarianServicesImplementation class and printing list of books loaned.
+In LibrarianServicesImplementation junit test checking listOfBooks function in case book is null
+In LibrarianServicesImplementation class and printing list of books.
+In LibrarianServicesImplementation junit test checking addBooks function in case book is null
+In LibrarianServicesImplementation junit test checking addBooks function in case book and library are not null
+In LibrarianServicesImplementation junit test checking studentsList function in case library is null
+In LibrarianServicesImplementation class and printing list of students registered with the library.
+In LibrarianServicesImplementation junit test checking studentsList function in case library is not null
+In LibrarianServicesImplementation class and printing list of students registered with the library.
+In LibrarianServicesImplementation junit test checking loanedBooks function in case library is not null
+In LibrarianServicesImplementation class and printing list of books loaned.
+In LibrarianServicesImplementation junit test checking listOfBooks function in case book and library both are not null
+In LibrarianServicesImplementation class and printing list of books.
+In LibrarianServicesImplementation junit test checking loanedBooks function in case library is null
+In LibrarianServicesImplementation class and printing list of books loaned.
+In LibrarianServicesImplementation class and printing list of books loaned.
+In LibrarianServicesImplementation junit test checking listOfBooks function in case book is null
+In LibrarianServicesImplementation class and printing list of books.
+In LibrarianServicesImplementation junit test checking addBooks function in case book is null
+In LibrarianServicesImplementation junit test checking addBooks function in case book and library are not null
+In LibrarianServicesImplementation junit test checking studentsList function in case library is null
+In LibrarianServicesImplementation class and printing list of students registered with the library.
+In LibrarianServicesImplementation junit test checking studentsList function in case library is not null
+In LibrarianServicesImplementation class and printing list of students registered with the library.
+In LibrarianServicesImplementation junit test checking loanedBooks function in case library is not null
+In LibrarianServicesImplementation class and printing list of books loaned.
+In LibrarianServicesImplementation junit test checking listOfBooks function in case book and library both are not null
+In LibrarianServicesImplementation class and printing list of books.
+In StudentServiceImplementation junit test checking SearchBookByAuthorName function in case book and library are not null
+In StudentServicesImplementation class and in function searchBookByName.
+In StudentServiceImplementation junit test checking LoanABook function in case book is empty
+In StudentServiceImplementation junit test checking LoanABook function in case book is null
+In StudentServiceImplementation junit test checking searchBookByName function in case book and library are not null
+In StudentServicesImplementation class and in function searchBookByName.
+In StudentServiceImplementation junit test checking returnBook when all conditions full filled
+In StudentServicesImplementation class and in function loanABook.
+In StudentServicesImplementation class and in function loanABook and book loaned successfully.
+In StudentServicesImplementation class and in function returnBook.
+In StudentDaoimplementation class and in case book returned successfully.
+In StudentServicesImplementation class and in function returnBook and book returned successfully.
+In StudentServiceImplementation junit test checking LoanABook function in case student is null
+In StudentServiceImplementation junit test checking returnBook when student is null
+In StudentServiceImplementation junit test checking LoanABook function in case student is not null
+In StudentServicesImplementation class and in function loanABook.
+In StudentServicesImplementation class and in function loanABook and book not loaned successfully.
+In StudentServiceImplementation junit test checking returnBook when book is Empty
+In StudentServiceImplementation junit test checking SearchBookByAuthorName function in case book is null
+In StudentServiceImplementation junit test checking searchBookByName function in case book is null
+In StudentServiceImplementation junit test checking returnBook when book is null
+In StudentServiceImplementation junit test checking SearchBookByAuthorName function in case book and library are not null
+In StudentServicesImplementation class and in function searchBookByName.
+In StudentServiceImplementation junit test checking LoanABook function in case book is empty
+In StudentServiceImplementation junit test checking LoanABook function in case book is null
+In StudentServiceImplementation junit test checking LoanABook function in case values are as per expectation
+In StudentServicesImplementation class and in function loanABook.
+In StudentServicesImplementation class and in function loanABook and book loaned successfully.
+In StudentServiceImplementation junit test checking searchBookByName function in case book and library are not null
+In StudentServicesImplementation class and in function searchBookByName.
+In StudentServiceImplementation junit test checking returnBook when all conditions full filled
+In StudentServicesImplementation class and in function loanABook.
+In StudentServicesImplementation class and in function loanABook and book loaned successfully.
+In StudentServicesImplementation class and in function returnBook.
+In StudentDaoimplementation class and in case book returned successfully.
+In StudentServicesImplementation class and in function returnBook and book returned successfully.
+In StudentServiceImplementation junit test checking LoanABook function in case student is null
+In StudentServiceImplementation junit test checking returnBook when student is null
+In StudentServiceImplementation junit test checking LoanABook function in case student is not null
+In StudentServicesImplementation class and in function loanABook.
+In StudentServicesImplementation class and in function loanABook and book not loaned successfully.
+In StudentServiceImplementation junit test checking returnBook when book is Empty
+In StudentServiceImplementation junit test checking SearchBookByAuthorName function in case book is null
+In StudentServiceImplementation junit test checking searchBookByName function in case book is null
+In StudentServiceImplementation junit test checking returnBook when book is null
+Library created
+Library created using LibraryDaoImplementation
+Library created
+Librarian created and added to library using LibraryDaoImplementation
+libraryDao called for librarian creation and addition to library
+Student created and added to library using LibraryDaoImplementation
+libraryDao called for student creation and addition to library
+Services called
+Login class called
+Login successfull for Student module.
+In student module
+Showing student module's menu.
+Logging out
+In Student module functionality asking user wheather to continue or not
+In student module
+Showing student module's menu.
+Logging out
+In Student module functionality asking user wheather to continue or not
+Asking user wheather he/she wants to continue or not
+Library created using LibraryDaoImplementation
+Library created
+Librarian created and added to library using LibraryDaoImplementation
+libraryDao called for librarian creation and addition to library
+Student created and added to library using LibraryDaoImplementation
+libraryDao called for student creation and addition to library
+Services called
+Login class called
+Login successfull for Librarian module.
+In librarian module.
+Showing librarian module's menu.
+In librarian module functionality 1).Add books.
+In librarian module functionality asking user wheather to continue or not
+Asking user wheather he/she wants to continue or not
+Login successfull for Student module.
+In student module
+Showing student module's menu.
+In student module functionality 3).Loan a book.
+In StudentServicesImplementation class and in function listOfBooks.
+In StudentServicesImplementation class and in function loanABook.
+In StudentServicesImplementation class and in function loanABook and book loaned successfully.
+In student module functionality 3).Loan a book.
+In StudentServicesImplementation class and in function listOfBooks.
+In StudentServicesImplementation class and in function loanABook.
+In StudentServicesImplementation class and in function loanABook and book not loaned successfully.
+In Student module functionality asking user wheather to continue or not
+In student module
+Showing student module's menu.
+In student module functionality 5).See books avaiable.
+In StudentServicesImplementation class and in function listOfBooks.
+In Student module functionality asking user wheather to continue or not
+Asking user wheather he/she wants to continue or not
+Login successfull for Librarian module.
+In librarian module.
+Showing librarian module's menu.
+In librarian module functionality 3).List of books loaned.
+In LibrarianServicesImplementation class and printing list of books loaned.
+In librarian module functionality asking user wheather to continue or not
+In StudentServiceImplementation junit test checking SearchBookByAuthorName function in case book and library are not null
+In StudentServicesImplementation class and in function searchBookByName.
+In StudentServiceImplementation junit test checking LoanABook function in case book is empty
+In StudentServiceImplementation junit test checking LoanABook function in case book is null
+In StudentServiceImplementation junit test checking LoanABook function in case values are as per expectation
+In StudentServicesImplementation class and in function loanABook.
+In StudentServicesImplementation class and in function loanABook and book loaned successfully.
+In StudentServiceImplementation junit test checking searchBookByName function in case book and library are not null
+In StudentServicesImplementation class and in function searchBookByName.
+In StudentServiceImplementation junit test checking returnBook when all conditions full filled
+In StudentServicesImplementation class and in function loanABook.
+In StudentServicesImplementation class and in function loanABook and book loaned successfully.
+In StudentServicesImplementation class and in function returnBook.
+In StudentDaoimplementation class and in case book returned successfully.
+In StudentServicesImplementation class and in function returnBook and book returned successfully.
+In StudentServiceImplementation junit test checking LoanABook function in case student is null
+In StudentServiceImplementation junit test checking returnBook when student is null
+In StudentServiceImplementation junit test checking LoanABook function in case student is not null
+In StudentServicesImplementation class and in function loanABook.
+In StudentServicesImplementation class and in function loanABook and book not loaned successfully.
+In StudentServiceImplementation junit test checking returnBook when book is Empty
+In StudentServiceImplementation junit test checking SearchBookByAuthorName function in case book is null
+In StudentServiceImplementation junit test checking searchBookByName function in case book is null
+In StudentServiceImplementation junit test checking returnBook when book is null
+In StudentServiceImplementation junit test checking SearchBookByAuthorName function in case book and library are not null
+In StudentServicesImplementation class and in function searchBookByName.
+In StudentServiceImplementation junit test checking LoanABook function in case book is empty
+In StudentServiceImplementation junit test checking LoanABook function in case book is null
+In StudentServiceImplementation junit test checking LoanABook function in case values are as per expectation
+In StudentServicesImplementation class and in function loanABook.
+In StudentServicesImplementation class and in function loanABook and book loaned successfully.
+In StudentServiceImplementation junit test checking searchBookByName function in case book and library are not null
+In StudentServicesImplementation class and in function searchBookByName.
+In StudentServiceImplementation junit test checking returnBook when all conditions full filled
+In StudentServicesImplementation class and in function loanABook.
+In StudentServicesImplementation class and in function loanABook and book loaned successfully.
+In StudentServicesImplementation class and in function returnBook.
+In StudentDaoimplementation class and in case book returned successfully.
+In StudentServicesImplementation class and in function returnBook and book returned successfully.
+In StudentServiceImplementation junit test checking LoanABook function in case student is null
+In StudentServiceImplementation junit test checking returnBook when student is null
+In StudentServiceImplementation junit test checking LoanABook function in case student is not null
+In StudentServicesImplementation class and in function loanABook.
+In StudentServicesImplementation class and in function loanABook and book not loaned successfully.
+In StudentServiceImplementation junit test checking returnBook when book is Empty
+In StudentServiceImplementation junit test checking SearchBookByAuthorName function in case book is null
+In StudentServiceImplementation junit test checking searchBookByName function in case book is null
+In StudentServiceImplementation junit test checking returnBook when book is null
+In StudentServiceImplementation junit test checking SearchBookByAuthorName function in case book and library are not null
+In StudentServicesImplementation class and in function searchBookByName.
+In StudentServiceImplementation junit test checking LoanABook function in case book is empty
+In StudentServiceImplementation junit test checking listOfBooks when there is no book available in library
+In StudentServicesImplementation class and in function listOfBooks.
+In StudentServiceImplementation junit test checking LoanABook function in case book is null
+In StudentServiceImplementation junit test checking LoanABook function in case values are as per expectation
+In StudentServicesImplementation class and in function loanABook.
+In StudentServicesImplementation class and in function loanABook and book loaned successfully.
+In StudentServiceImplementation junit test checking searchBookByName function in case book and library are not null
+In StudentServicesImplementation class and in function searchBookByName.
+In StudentServiceImplementation junit test checking returnBook when all conditions full filled
+In StudentServicesImplementation class and in function loanABook.
+In StudentServicesImplementation class and in function loanABook and book loaned successfully.
+In StudentServicesImplementation class and in function returnBook.
+In StudentDaoimplementation class and in case book returned successfully.
+In StudentServicesImplementation class and in function returnBook and book returned successfully.
+In StudentServiceImplementation junit test checking LoanABook function in case student is null
+In StudentServiceImplementation junit test checking returnBook when student is null
+In StudentServiceImplementation junit test checking LoanABook function in case student is not null
+In StudentServicesImplementation class and in function loanABook.
+In StudentServicesImplementation class and in function loanABook and book not loaned successfully.
+In StudentServiceImplementation junit test checking returnBook when book is Empty
+In StudentServiceImplementation junit test checking SearchBookByAuthorName function in case book is null
+In StudentServiceImplementation junit test checking searchBookByName function in case book is null
+In StudentServiceImplementation junit test checking returnBook when book is null
+In StudentServiceImplementation junit test checking SearchBookByAuthorName function in case book and library are not null
+In StudentServicesImplementation class and in function searchBookByName.
+In StudentServiceImplementation junit test checking listOfBooks when there is no book available in library
+In StudentServicesImplementation class and in function listOfBooks.
+In StudentServiceImplementation junit test checking LoanABook function in case book is empty
+In StudentServiceImplementation junit test checking listOfBooks when there are books available in library
+In StudentServicesImplementation class and in function listOfBooks.
+In StudentServiceImplementation junit test checking LoanABook function in case book is null
+In StudentServiceImplementation junit test checking LoanABook function in case values are as per expectation
+In StudentServicesImplementation class and in function loanABook.
+In StudentServicesImplementation class and in function loanABook and book loaned successfully.
+In StudentServiceImplementation junit test checking searchBookByName function in case book and library are not null
+In StudentServicesImplementation class and in function searchBookByName.
+In StudentServiceImplementation junit test checking returnBook when all conditions full filled
+In StudentServicesImplementation class and in function loanABook.
+In StudentServicesImplementation class and in function loanABook and book loaned successfully.
+In StudentServicesImplementation class and in function returnBook.
+In StudentDaoimplementation class and in case book returned successfully.
+In StudentServicesImplementation class and in function returnBook and book returned successfully.
+In StudentServiceImplementation junit test checking LoanABook function in case student is null
+In StudentServiceImplementation junit test checking returnBook when student is null
+In StudentServiceImplementation junit test checking LoanABook function in case student is not null
+In StudentServicesImplementation class and in function loanABook.
+In StudentServicesImplementation class and in function loanABook and book not loaned successfully.
+In StudentServiceImplementation junit test checking returnBook when book is Empty
+In StudentServiceImplementation junit test checking SearchBookByAuthorName function in case book is null
+In StudentServiceImplementation junit test checking searchBookByName function in case book is null
+In StudentServiceImplementation junit test checking returnBook when book is null
+In StudentServiceImplementation junit test checking SearchBookByAuthorName function in case book and library are not null
+In StudentServicesImplementation class and in function searchBookByName.
+In StudentServiceImplementation junit test checking LoanABook function in case book is empty
+In StudentServiceImplementation junit test checking LoanABook function in case book is null
+In StudentServiceImplementation junit test checking LoanABook function in case values are as per expectation
+In StudentServicesImplementation class and in function loanABook.
+In StudentServicesImplementation class and in function loanABook and book loaned successfully.
+In StudentServiceImplementation junit test checking searchBookByName function in case book and library are not null
+In StudentServicesImplementation class and in function searchBookByName.
+In StudentServiceImplementation junit test checking listOfStudentsBooks function when there is no book available in library
+In StudentServicesImplementation class and in function listOfStudentsBooks.
+In StudentServiceImplementation junit test checking returnBook when all conditions full filled
+In StudentServicesImplementation class and in function loanABook.
+In StudentServicesImplementation class and in function loanABook and book loaned successfully.
+In StudentServicesImplementation class and in function returnBook.
+In StudentDaoimplementation class and in case book returned successfully.
+In StudentServicesImplementation class and in function returnBook and book returned successfully.
+In StudentServiceImplementation junit test checking LoanABook function in case student is null
+In StudentServiceImplementation junit test checking listOfStudentsBooks function when there are books available in library
+In StudentServicesImplementation class and in function loanABook.
+In StudentServicesImplementation class and in function loanABook and book loaned successfully.
+In StudentServicesImplementation class and in function listOfStudentsBooks.
+In StudentServiceImplementation junit test checking returnBook when student is null
+In StudentServiceImplementation junit test checking LoanABook function in case student is not null
+In StudentServicesImplementation class and in function loanABook.
+In StudentServicesImplementation class and in function loanABook and book not loaned successfully.
+In StudentServiceImplementation junit test checking listOfBooks when there are books available in library
+In StudentServicesImplementation class and in function listOfBooks.
+In StudentServiceImplementation junit test checking returnBook when book is Empty
+In StudentServiceImplementation junit test checking SearchBookByAuthorName function in case book is null
+In StudentServiceImplementation junit test checking listOfBooks when there is no book available in library
+In StudentServicesImplementation class and in function listOfBooks.
+In StudentServiceImplementation junit test checking searchBookByName function in case book is null
+In StudentServiceImplementation junit test checking returnBook when book is null
+Library created using LibraryDaoImplementation
+Library created
+Librarian created and added to library using LibraryDaoImplementation
+libraryDao called for librarian creation and addition to library
+Student created and added to library using LibraryDaoImplementation
+libraryDao called for student creation and addition to library
+Services refrence created
+Login service class called
+When login of user fails
+Asking user wheather he/she wants to continue or not
+Login service class called
+Login successfull for Student module.
+In student module
+Showing student module's menu.
+Logging out
+In Student module functionality asking user wheather to continue or not
+In student module
+Showing student module's menu.
+Logging out
+In Student module functionality asking user wheather to continue or not
+Asking user wheather he/she wants to continue or not
+Login service class called
+When login of user fails
+Asking user wheather he/she wants to continue or not
+Login service class called
+Login successfull for Librarian module.
+In librarian module.
+Showing librarian module's menu.
+Logging out
+In librarian module functionality asking user wheather to continue or not
+Asking user wheather he/she wants to continue or not
+Login service class called
+When login of user fails
+Asking user wheather he/she wants to continue or not
+Login service class called
+Login successfull for Student module.
+In student module
+Showing student module's menu.
+Logging out
+In Student module functionality asking user wheather to continue or not
+Asking user wheather he/she wants to continue or not
+Login service class called
+When login of user fails
+Asking user wheather he/she wants to continue or not
+Login service class called
+When login of user fails
+Asking user wheather he/she wants to continue or not
+Login service class called
+Login successfull for Student module.
+In student module
+Showing student module's menu.
+Librarian created and added to library using LibraryDaoImplementationTest
+Librarian created and added to library using LibraryDaoImplementationTest
+Librarian created and added to library using LibraryDaoImplementationTest
+Librarian created and added to library using LibraryDaoImplementationTest
+Librarian created and added to library using LibraryDaoImplementationTest
+Librarian created and added to library using LibraryDaoImplementationTest
+Librarian created and added to library using LibraryDaoImplementationTest
+Librarian created and added to library using LibraryDaoImplementationTest
+Librarian created and added to library using LibraryDaoImplementationTest
+Librarian created and added to library using LibraryDaoImplementationTest
+Librarian created and added to library using LibraryDaoImplementationTest
+Librarian created and added to library using LibraryDaoImplementationTest
+Librarian created and added to library using LibraryDaoImplementationTest
+Librarian created and added to library using LibraryDaoImplementationTest
+Librarian created and added to library using LibraryDaoImplementationTest
+Librarian created and added to library using LibraryDaoImplementationTest
+Librarian created and added to library using LibraryDaoImplementationTest
+Librarian created and added to library using LibraryDaoImplementationTest
+Librarian created and added to library using LibraryDaoImplementationTest
+Librarian created and added to library using LibraryDaoImplementationTest
+Librarian created and added to library using LibraryDaoImplementationTest
+Librarian created and added to library using LibraryDaoImplementationTest
+Librarian created and added to library using LibraryDaoImplementationTest
+Librarian created and added to library using LibraryDaoImplementationTest
+Librarian created and added to library using LibraryDaoImplementationTest
+Librarian created and added to library using LibraryDaoImplementationTest
+Librarian created and added to library using LibraryDaoImplementationTest
+Librarian created and added to library using LibraryDaoImplementationTest
+Librarian created and added to library using LibraryDaoImplementationTest
+Librarian created and added to library using LibraryDaoImplementationTest
+Librarian created and added to library using LibraryDaoImplementationTest
+Librarian created and added to library using LibraryDaoImplementationTest
+Librarian created and added to library using LibraryDaoImplementationTest
+Librarian created and added to library using LibraryDaoImplementationTest
+Librarian created and added to library using LibraryDaoImplementationTest
+Librarian created and added to library using LibraryDaoImplementationTest
+Librarian created and added to library using LibraryDaoImplementationTest
+Librarian created and added to library using LibraryDaoImplementationTest
+Librarian created and added to library using LibraryDaoImplementationTest
+Librarian created and added to library using LibraryDaoImplementationTest
+Librarian created and added to library using LibraryDaoImplementationTest in LoginServicesImplementationTest
+Librarian created and added to library using LibraryDaoImplementationTest in LoginServicesImplementationTest
+Librarian created and added to library using LibraryDaoImplementationTest in LoginServicesImplementationTest
+Librarian created and added to library using LibraryDaoImplementationTest in LoginServicesImplementationTest
+Librarian created and added to library using LibraryDaoImplementationTest in LoginServicesImplementationTest
+Librarian created and added to library using LibraryDaoImplementationTest in LoginServicesImplementationTest
+Librarian created and added to library using LibraryDaoImplementationTest in LoginServicesImplementationTest
+Librarian created and added to library using LibraryDaoImplementationTest in LoginServicesImplementationTest
+Librarian created and added to library using LibraryDaoImplementationTest in LoginServicesImplementationTest
+Librarian created and added to library using LibraryDaoImplementationTest in LoginServicesImplementationTest
+Librarian created and added to library using LibraryDaoImplementationTest in LoginServicesImplementationTest
+Librarian created and added to library using LibraryDaoImplementationTest in LoginServicesImplementationTest
+Librarian created and added to library using LibraryDaoImplementationTest in LoginServicesImplementationTest
+Librarian created and added to library using LibraryDaoImplementationTest in LoginServicesImplementationTest
+Librarian created and added to library using LibraryDaoImplementationTest in LoginServicesImplementationTest
+Librarian created and added to library using LibraryDaoImplementationTest in LoginServicesImplementationTest
+Librarian created and added to library using LibraryDaoImplementationTest in LoginServicesImplementationTest
+Librarian created and added to library using LibraryDaoImplementationTest in LoginServicesImplementationTest
+Librarian created and added to library using LibraryDaoImplementationTest in LoginServicesImplementationTest
+Librarian created and added to library using LibraryDaoImplementationTest in LoginServicesImplementationTest
+Student created and added to library using LibraryDaoImplementationTest in LoginServicesImplementationTest
+Librarian created and added to library using LibraryDaoImplementationTest in LoginServicesImplementationTest
+Librarian created and added to library using LibraryDaoImplementationTest in LoginServicesImplementationTest
+Librarian created and added to library using LibraryDaoImplementationTest in LoginServicesImplementationTest
+Librarian created and added to library using LibraryDaoImplementationTest in LoginServicesImplementationTest
+Librarian created and added to library using LibraryDaoImplementationTest in LoginServicesImplementationTest
+Librarian created and added to library using LibraryDaoImplementationTest in LoginServicesImplementationTest
+Librarian created and added to library using LibraryDaoImplementationTest in LoginServicesImplementationTest
+Librarian created and added to library using LibraryDaoImplementationTest in LoginServicesImplementationTest
+Librarian created and added to library using LibraryDaoImplementationTest in LoginServicesImplementationTest
+Student created and added to library using LibraryDaoImplementationTest in LoginServicesImplementationTest
+Librarian created and added to library using LibraryDaoImplementationTest in LoginServicesImplementationTest
+Librarian created and added to library using LibraryDaoImplementationTest in LoginServicesImplementationTest
+Librarian created and added to library using LibraryDaoImplementationTest in LoginServicesImplementationTest
+Librarian created and added to library using LibraryDaoImplementationTest in LoginServicesImplementationTest
+Librarian created and added to library using LibraryDaoImplementationTest in LoginServicesImplementationTest
+Librarian created and added to library using LibraryDaoImplementationTest in LoginServicesImplementationTest
+Librarian created and added to library using LibraryDaoImplementationTest in LoginServicesImplementationTest
+Librarian created and added to library using LibraryDaoImplementationTest in LoginServicesImplementationTest
+Librarian created and added to library using LibraryDaoImplementationTest in LoginServicesImplementationTest
+Student created and added to library using LibraryDaoImplementationTest in LoginServicesImplementationTest
+Librarian created and added to library using LibraryDaoImplementationTest in LoginServicesImplementationTest
+Librarian created and added to library using LibraryDaoImplementationTest in LoginServicesImplementationTest
+Librarian created and added to library using LibraryDaoImplementationTest in LoginServicesImplementationTest
+Librarian created and added to library using LibraryDaoImplementationTest in LoginServicesImplementationTest
+Librarian created and added to library using LibraryDaoImplementationTest in LoginServicesImplementationTest
+Librarian created and added to library using LibraryDaoImplementationTest in LoginServicesImplementationTest
+Librarian created and added to library using LibraryDaoImplementationTest in LoginServicesImplementationTest
+Librarian created and added to library using LibraryDaoImplementationTest in LoginServicesImplementationTest
+Librarian created and added to library using LibraryDaoImplementationTest in LoginServicesImplementationTest

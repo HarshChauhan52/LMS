@@ -2,14 +2,19 @@ package com.librarymanagementsystem.daoimplementation;
 
 import java.util.List;
 
+import org.apache.log4j.Logger;
+
 import com.librarymanagementsystem.beans.Book;
 import com.librarymanagementsystem.beans.Library;
 import com.librarymanagementsystem.beans.ReturnBook;
 import com.librarymanagementsystem.beans.Student;
 import com.librarymanagementsystem.dao.StudentDao;
+import com.librarymanagementsystem.serviceimplementation.StudentServicesImplementation;
 
 public class StudentDaoimplementation implements StudentDao
 {
+	private static final Logger LOGGER= Logger.getLogger(StudentServicesImplementation.class.getName());
+
 	public Book searchingBookByName(Library library, String bookName)
 	{
 		Book b1=new Book();
@@ -77,6 +82,7 @@ public class StudentDaoimplementation implements StudentDao
 		{
 			if(book.getBookName().equalsIgnoreCase(bookName))
 			{
+				LOGGER.info("In StudentDaoimplementation class and in case book returned successfully.");
 				student.removeBooksFromStudentsList(book);  //remove book from student book list
 				library.addBooks(book);                     //adding book to library
 				ReturnBook returnBook=new ReturnBook(book,student);
@@ -86,6 +92,7 @@ public class StudentDaoimplementation implements StudentDao
 			}
 			else
 			{
+				LOGGER.info("In StudentDaoimplementation class and in case book not returned successfully.");
 				i=0;
 			}
 		}

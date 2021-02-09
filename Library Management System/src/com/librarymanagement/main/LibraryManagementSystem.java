@@ -3,6 +3,8 @@ package com.librarymanagement.main;
 import org.apache.log4j.Logger;
 import java.util.Scanner;
 import com.librarymanagementsystem.beans.*;
+import com.librarymanagementsystem.dao.LibraryDao;
+import com.librarymanagementsystem.daoimplementation.LibraryDaoImplementation;
 import com.librarymanagementsystem.service.*;
 import com.librarymanagementsystem.serviceimplementation.*;
 import com.librarymanagementsystem.serviceimplementation.LibrarianServicesImplementation;
@@ -17,27 +19,28 @@ public class LibraryManagementSystem
 	{
 		Scanner sc=new Scanner(System.in);
 		
+		LibraryDao libraryDao= new LibraryDaoImplementation();
+		
 		// creating library
-	    Library library=new Library();
+	    Library library=libraryDao.getLibrary();
 	    LOGGER.info("Library created");
 		
-	    // adding new librarian to project
-	 	Librarian librarian1=new Librarian(45, "hello" , "123" , "bhopal" );
-	 	library.addLibrarian(librarian1);               // adding librarian in library
+	    // getting the librarian 
+	 	Librarian librarian1=libraryDao.creatingLibrarianAddingToLibrary();
+	 	LOGGER.info("libraryDao called for librarian creation and addition to library");
+	 	
+	    // getting the student 
+	 	Student student1=libraryDao.creatingStudentAddingToLibrary();
+	 	LOGGER.info("libraryDao called for student creation and addition to library");
+	 	
 	    
-	    // adding new student to project
-	 	Student student1=new Student(46, "hi" , "123" , "Delhi" );
-	 	library.addStudents(student1);                  // adding student in library
-
-	    
-	    LOGGER.info("Services called");
+	    LOGGER.info("Services refrence created");
 	    /* services : librarian , student (login service also called here and initialized) 
 	    initialized below according to librarian , student login*/
 	 	LibrarianService librarianservice;
 	 	StudentService studentservice;
 	    
-	 	LOGGER.info("Login class called");
-	 	LoginService login=new LoginServicesImplementation();
+	 	
 	 	
 	    // main program functionality starts from here
 	    int repetation=1;
@@ -48,13 +51,16 @@ public class LibraryManagementSystem
 			  System.out.println("Enter password :");
 			  String password=sc.next();
 			 
-	          int choice=login.loggingIn(userName,password,library);
+			  LOGGER.info("Login service class called");
+			  LoginService login=new LoginServicesImplementation(library,userName,password);
+			  
+	          int choice=login.loggingIn();
 		
 		       if(choice==1)	   
 		       {
 		    	  LOGGER.info("Login successfull for Librarian module.");
 				  //    	   
-		    	  librarianservice = new LibrarianServicesImplementation(login.getLibrarian());
+		    	  librarianservice = new LibrarianServicesImplementation(login.getLibrarian(),library);
 			 	
 				  int repeat=1;
 				  do
@@ -85,7 +91,7 @@ public class LibraryManagementSystem
         					   Book book=new Book(bookName,authorName,subject,pageNo);
         					   
         					   // books being added to library by this librarian
-        					   boolean check=librarianservice.addBooks(library,book);
+        					   boolean check=librarianservice.addBooks(book);
         					   if(check==true)
         					   {
         						   System.out.println("Book added successfully");
@@ -105,7 +111,7 @@ public class LibraryManagementSystem
         				
         				   LOGGER.info("In librarian module functionality 2).List of books.");
         				   // seeing books added by this librarian to library
-        				   librarianservice.listOfBooks(library);
+        				   librarianservice.listOfBooks();
         					
             		   break;
             			   
@@ -113,7 +119,7 @@ public class LibraryManagementSystem
         				
         				   LOGGER.info("In librarian module functionality 3).List of books loaned.");
         				   // seeing books loaned
-        				   librarianservice.loanedBooks(library);
+        				   librarianservice.loanedBooks();
             		   
         			   break;
             		   
@@ -121,7 +127,7 @@ public class LibraryManagementSystem
         				   
         				   LOGGER.info("In librarian module functionality 4).List of students");
         				   // seeing students added to our library
-        				   librarianservice.studentsList(library);
+        				   librarianservice.studentsList();
         			   
         			   break;
         			   
@@ -145,7 +151,7 @@ public class LibraryManagementSystem
         	  {
 				  LOGGER.info("Login successfull for Student module.");
 				  //
-				  studentservice = new StudentServicesImplementation(login.getStudent());
+				  studentservice = new StudentServicesImplementation(login.getStudent(),library);
 				  Student student=login.getStudent(); 
 				  
 				  int repeating=1;
@@ -154,7 +160,7 @@ public class LibraryManagementSystem
           			   LOGGER.info("In student module");
           			   System.out.println("Login successfull");
           			   LOGGER.info("Showing student module's menu.");
-  	            	   System.out.println("what do you want to do... \n 1).Search a book by it's name/title \n 2). Search a book by it's Author \n 3).Loan a book \n 4).Return a book \n 5).See books avaiable \n 6).Log out");
+  	            	   System.out.println("what do you want to do... \n 1).Search a book by it's name/title \n 2).Search a book by it's Author \n 3).Loan a book \n 4).Return a book \n 5).See books avaiable \n 6).Log out");
   	            	   int option=sc.nextInt();
   	            	    
   	            		  switch(option)
@@ -169,7 +175,7 @@ public class LibraryManagementSystem
   	            					   String bookName=sc.next();
   	            					   
   	            					   // student searching for a book by book's name/title
-  	            					   studentservice.searchBookByName(library,bookName);
+  	            					   studentservice.searchBookByName(bookName);
   	            					   
   	            					   System.out.println("If you want to continue searching books press 1 else 2");
   	            					   repeat2=sc.nextInt();
@@ -188,7 +194,7 @@ public class LibraryManagementSystem
   	            					   String authorName=sc.next();
   	            					   
   	            					   // student searching for a book by book's author name
-  	            					   studentservice.searchBookByAuthorName(library,authorName);
+  	            					   studentservice.searchBookByAuthorName(authorName);
   	            					   
   	            					   System.out.println("If you want to continue searching books press 1 else 2");
   	            					   repeat3=sc.nextInt();
@@ -203,8 +209,14 @@ public class LibraryManagementSystem
   	            				   do
   	            				   {
   	            					   LOGGER.info("In student module functionality 3).Loan a book.");
+  	            					   
+  	            					   studentservice.listOfBooks ();
+  	            					   
+  	            					   System.out.println("Enter book name :");
+  	            					   String bookName=sc.next();
+  	            					   
   	            					   // loan a book
-  	            					   studentservice.loanABook(library,student);
+  	            					   studentservice.loanABook(student,bookName);
   	            					   System.out.println("If you want to continue loaning books press 1 else 2");
   	            					   repeat4=sc.nextInt();
   	            				   }
@@ -217,9 +229,13 @@ public class LibraryManagementSystem
   	            				   int repeat5=1;
   	            				   do
   	            				   {
+  	            					    studentservice.listOfStudentsBooks();
+  	            					    System.out.println("Enter book name you want to return:");
+  	            					    String bookName=sc.next();
+  	            					
   	            					    LOGGER.info("In student module functionality 4).Return a book.");
   	            						// return a book
-  	            						studentservice.returnBook(student,library);
+  	            						studentservice.returnBook(student,bookName);
   	            						
   	            						System.out.println("If you want to continue returning books press 1 else 2");
 	    	            			    repeat5=sc.nextInt();
@@ -231,7 +247,7 @@ public class LibraryManagementSystem
   	            			     case 5:
   	            				   
   	            				   LOGGER.info("In student module functionality 5).See books avaiable.");
-  	            				   studentservice.listOfBooks(library);
+  	            				   studentservice.listOfBooks();
   	            				   
 	    	            	     break;		
   	                		   

@@ -6,7 +6,7 @@ import com.librarymanagementsystem.beans.Student;
 
 public interface LoginService 
 {
-	public int loggingIn(String userName,String password,Library library);
+	public int loggingIn();
 	public Librarian getLibrarian();
 	public Student getStudent();
 }
